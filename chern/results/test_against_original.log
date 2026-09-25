@@ -1,0 +1,46 @@
+#I  polymake command not found. Please set POLYMAKE_COMMAND by hand
+#I  HAP warning: Set NEATO_PATH manually if needed.
+#I  HAP warning: Set DOT_PATH manually if needed.
+#I  HAP warning: Set DISPLAY_PATH manually if needed.
+#I  HAP warning: Set BROWSER_PATH manually if needed.
+#I  HAP warning: Set ASY_PATH manually if needed.
+--- Q8 [ 8, 4 ]  H^4 = [ 8 ]
+   deg-2 irr: old = [ 7 ]   new = [ 7 ]   equal ? true
+   chi+1  : old = [ 7 ]   new = [ 7 ]   equal ? true
+   lin pair: old = [ 4 ]   new = [ 4 ]   equal ? true
+--- D8 [ 8, 3 ]  H^4 = [ 2, 2, 4 ]
+   deg-2 irr: old = [ 0, 0, 3 ]   new = [ 0, 0, 3 ]   equal ? true
+   chi+1  : old = [ 0, 0, 3 ]   new = [ 0, 0, 3 ]   equal ? true
+   lin pair: old = [ 0, 0, 0 ]   new = [ 0, 0, 0 ]   equal ? true
+--- D16 [ 16, 7 ]  H^4 = [ 2, 2, 8 ]
+   deg-2 irr: old = [ 0, 0, 4 ]   new = [ 0, 0, 4 ]   equal ? true
+   deg-2 irr: old = [ 0, 0, 7 ]   new = [ 0, 0, 7 ]   equal ? true
+   deg-2 irr: old = [ 0, 0, 7 ]   new = [ 0, 0, 7 ]   equal ? true
+   chi+1  : old = [ 0, 0, 4 ]   new = [ 0, 0, 4 ]   equal ? true
+   chi+1  : old = [ 0, 0, 7 ]   new = [ 0, 0, 7 ]   equal ? true
+   chi+1  : old = [ 0, 0, 7 ]   new = [ 0, 0, 7 ]   equal ? true
+   lin pair: old = [ 0, 0, 0 ]   new = [ 0, 0, 0 ]   equal ? true
+--- Q16 [ 16, 9 ]  H^4 = [ 16 ]
+   deg-2 irr: old = [ 12 ]   new = [ 12 ]   equal ? true
+   deg-2 irr: old = [ 7 ]   new = [ 7 ]   equal ? true
+   deg-2 irr: old = [ 15 ]   new = [ 15 ]   equal ? true
+   chi+1  : old = [ 12 ]   new = [ 12 ]   equal ? true
+   chi+1  : old = [ 7 ]   new = [ 7 ]   equal ? true
+   chi+1  : old = [ 15 ]   new = [ 15 ]   equal ? true
+   lin pair: old = [ 0 ]   new = [ 0 ]   equal ? true
+--- SD16 [ 16, 8 ]  H^4 = [ 2, 8 ]
+   deg-2 irr: old = [ 0, 4 ]   new = [ 0, 4 ]   equal ? true
+   deg-2 irr: old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   deg-2 irr: old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   chi+1  : old = [ 0, 4 ]   new = [ 0, 4 ]   equal ? true
+   chi+1  : old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   chi+1  : old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   lin pair: old = [ 0, 0 ]   new = [ 0, 0 ]   equal ? true
+--- M16 [ 16, 6 ]  H^4 = [ 2, 8 ]
+   deg-2 irr: old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   deg-2 irr: old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   chi+1  : old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   chi+1  : old = [ 0, 7 ]   new = [ 0, 7 ]   equal ? true
+   lin pair: old = [ 0, 0 ]   new = [ 0, 0 ]   equal ? true
+
+TOTAL MISMATCHES: 0
