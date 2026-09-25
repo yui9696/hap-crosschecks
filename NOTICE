@@ -1,0 +1,14 @@
+hap-crosschecks
+Copyright (c) 2026 Moe Tabei
+
+This repository is not part of HAP and is not endorsed by its authors.
+It contains no code from HAP or from GAP.
+
+HAP (Homological Algebra Programming) is by Graham Ellis:
+  https://gap-packages.github.io/hap/
+GAP is by the GAP Group:
+  https://www.gap-system.org/
+
+`chern/h3nr_phi13_lib.g` and `chern/c2_euler_lib.g` are also deposited as
+ancillary files with the author's note on the degree three unramified
+cohomology of the groups of order 64 in the isoclinism family Phi_13.

@@ -1,0 +1,121 @@
+#I  polymake command not found. Please set POLYMAKE_COMMAND by hand
+#I  HAP warning: Set NEATO_PATH manually if needed.
+#I  HAP warning: Set DOT_PATH manually if needed.
+#I  HAP warning: Set DISPLAY_PATH manually if needed.
+#I  HAP warning: Set BROWSER_PATH manually if needed.
+#I  HAP warning: Set ASY_PATH manually if needed.
+=== (i) abelian calibration: Yoneda class of mu1(+)mu2 vs c1 cup c1 (original \
+route)
+Syntax warning: Unbound global variable in calib.g:23
+      neg := List([1..Length(tor)], k -> (-eu[k]) mod tor[k]);
+                                           ^^
+Syntax warning: Unbound global variable in calib.g:23
+      neg := List([1..Length(tor)], k -> (-eu[k]) mod tor[k]);
+                                                      ^^^
+A = [ 4, 4 ] H^4 = [ 4, 4, 4 ] pairs: sign+ 23 sign- 0 both(2-torsion) 
+35 none 0
+A = [ 2, 4 ] H^4 = [ 2, 2, 4 ] pairs: sign+ 7 sign- 0 both(2-torsion) 19 none 
+0
+A = [ 2, 8 ] H^4 = [ 2, 2, 8 ] pairs: sign+ 23 sign- 0 both(2-torsion) 
+35 none 0
+A = [ 2, 2, 4 ] H^4 = [ 2, 2, 2, 2, 2, 2, 4 ] pairs: sign+ 0 sign- 
+0 both(2-torsion) 58 none 0
+==> universal sign EULER_SIGN = 1   (10.77 s)
+
+=== (ii) Q8: Euler class of the faithful 2-dim representation must generate H^\
+4(Q8,Z) = Z/8
+H^4(Q8) = [ 8 ]
+maximal abelian subgroups (up to conj): [ [ 4 ], [ 4 ], [ 4 ] ]
+restriction data built, 0.027 s
+Ker(Res to maximal abelian) has order 2
+c_2(irr deg 2) = [ 3 ]  (mod Ker)
+cross-check (c1 c1 on G vs fitted through abelian subgroups): true
+H^4 = [ 8 ] order 8
+N0 := <c1c1 of G> + <c2(irr)> + Ker  has order 8
+2*H^4 subset N0 ? true
+time 0.06900000000000001 s
+  Euler class = [ 7 ]  (generator? true)  original fit mod K: [ 3 ] K order 
+2  agree mod K? true
+
+=== (iii) D8, D16, Q16, SD16, M16: Euler route vs abelian-restriction fit (ori\
+ginal)
+--- [ 8, 3 ] D8
+maximal abelian subgroups (up to conj): [ [ 2, 2 ], [ 2, 2 ], [ 4 ] ]
+restriction data built, 0.039 s
+Ker(Res to maximal abelian) has order 1
+c_2(irr deg 2) = [ 0, 0, 3 ]  (mod Ker)
+cross-check (c1 c1 on G vs fitted through abelian subgroups): true
+H^4 = [ 2, 2, 4 ] order 16
+N0 := <c1c1 of G> + <c2(irr)> + Ker  has order 16
+2*H^4 subset N0 ? true
+time 0.093 s
+  deg-2 irr 1: Euler c2 = [ 0, 0, 3 ]   fit = [ 0, 0, 3 ]   agree mod K (|K|=
+1)? true
+--- [ 16, 7 ] D16
+maximal abelian subgroups (up to conj): [ [ 2, 2 ], [ 2, 2 ], [ 8 ] ]
+restriction data built, 0.101 s
+Ker(Res to maximal abelian) has order 1
+c_2(irr deg 2) = [ 0, 0, 4 ]  (mod Ker)
+c_2(irr deg 2) = [ 0, 0, 7 ]  (mod Ker)
+c_2(irr deg 2) = [ 0, 0, 7 ]  (mod Ker)
+cross-check (c1 c1 on G vs fitted through abelian subgroups): true
+H^4 = [ 2, 2, 8 ] order 32
+N0 := <c1c1 of G> + <c2(irr)> + Ker  has order 32
+2*H^4 subset N0 ? true
+time 0.25 s
+  deg-2 irr 1: Euler c2 = [ 0, 0, 4 ]   fit = [ 0, 0, 4 ]   agree mod K (|K|=
+1)? true
+  deg-2 irr 2: Euler c2 = [ 0, 0, 7 ]   fit = [ 0, 0, 7 ]   agree mod K (|K|=
+1)? true
+  deg-2 irr 3: Euler c2 = [ 0, 0, 7 ]   fit = [ 0, 0, 7 ]   agree mod K (|K|=
+1)? true
+--- [ 16, 9 ] Q16
+maximal abelian subgroups (up to conj): [ [ 4 ], [ 4 ], [ 8 ] ]
+restriction data built, 0.076 s
+Ker(Res to maximal abelian) has order 2
+c_2(irr deg 2) = [ 4 ]  (mod Ker)
+c_2(irr deg 2) = [ 7 ]  (mod Ker)
+c_2(irr deg 2) = [ 7 ]  (mod Ker)
+cross-check (c1 c1 on G vs fitted through abelian subgroups): true
+H^4 = [ 16 ] order 16
+N0 := <c1c1 of G> + <c2(irr)> + Ker  has order 16
+2*H^4 subset N0 ? true
+time 0.216 s
+  deg-2 irr 1: Euler c2 = [ 12 ]   fit = [ 4 ]   agree mod K (|K|=2)? true
+  deg-2 irr 2: Euler c2 = [ 7 ]   fit = [ 7 ]   agree mod K (|K|=2)? true
+  deg-2 irr 3: Euler c2 = [ 15 ]   fit = [ 7 ]   agree mod K (|K|=2)? true
+--- [ 16, 8 ] QD16
+maximal abelian subgroups (up to conj): [ [ 4 ], [ 2, 2 ], [ 8 ] ]
+restriction data built, 0.08400000000000001 s
+Ker(Res to maximal abelian) has order 1
+c_2(irr deg 2) = [ 0, 4 ]  (mod Ker)
+c_2(irr deg 2) = [ 0, 7 ]  (mod Ker)
+c_2(irr deg 2) = [ 0, 7 ]  (mod Ker)
+cross-check (c1 c1 on G vs fitted through abelian subgroups): true
+H^4 = [ 2, 8 ] order 16
+N0 := <c1c1 of G> + <c2(irr)> + Ker  has order 16
+2*H^4 subset N0 ? true
+time 0.22 s
+  deg-2 irr 1: Euler c2 = [ 0, 4 ]   fit = [ 0, 4 ]   agree mod K (|K|=
+1)? true
+  deg-2 irr 2: Euler c2 = [ 0, 7 ]   fit = [ 0, 7 ]   agree mod K (|K|=
+1)? true
+  deg-2 irr 3: Euler c2 = [ 0, 7 ]   fit = [ 0, 7 ]   agree mod K (|K|=
+1)? true
+--- [ 16, 6 ] C8 : C2
+maximal abelian subgroups (up to conj): [ [ 8 ], [ 2, 4 ], [ 8 ] ]
+restriction data built, 0.059 s
+Ker(Res to maximal abelian) has order 1
+c_2(irr deg 2) = [ 0, 7 ]  (mod Ker)
+c_2(irr deg 2) = [ 0, 7 ]  (mod Ker)
+cross-check (c1 c1 on G vs fitted through abelian subgroups): true
+H^4 = [ 2, 8 ] order 16
+N0 := <c1c1 of G> + <c2(irr)> + Ker  has order 16
+2*H^4 subset N0 ? true
+time 0.41 s
+  deg-2 irr 1: Euler c2 = [ 0, 7 ]   fit = [ 0, 7 ]   agree mod K (|K|=
+1)? true
+  deg-2 irr 2: Euler c2 = [ 0, 7 ]   fit = [ 0, 7 ]   agree mod K (|K|=
+1)? true
+
+calibration total 15.488 s

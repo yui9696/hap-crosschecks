@@ -1,0 +1,31 @@
+# independent B0 (pc Schur cover via polycyclic Schur extension) vs HAP files \
+b0_order_<n>.txt, 2026-09-06
+order 64 [all]: checked 267 agree 267 disagree 0 nontrivial(ours) 9 time 7.645\
+0000000000005 s
+order 243 [all]: checked 67 agree 67 disagree 0 nontrivial(ours) 3 time 5.1840\
+000000000002 s
+order 128 [all]: checked 2328 agree 2328 disagree 0 nontrivial(ours) 230 time \
+128.726 s
+allpairs(literal |G|^2 commuting pairs) 64#149: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#150: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#151: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#170: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#171: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#172: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#177: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#178: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 64#182: ours=[ 2 ] hap=[ 2 ]
+allpairs(literal |G|^2 commuting pairs) 243#28: ours=[ 3 ] hap=[ 3 ]
+allpairs(literal |G|^2 commuting pairs) 243#29: ours=[ 3 ] hap=[ 3 ]
+allpairs(literal |G|^2 commuting pairs) 243#30: ours=[ 3 ] hap=[ 3 ]
+# orders > 2000: |M| sanity check against AbelianInvariantsMultiplier skipped \
+(B0_CHECK_AIM="small"); M(G) taken from the polycyclic Schur extension
+order 3125 [all]: checked 77 agree 77 disagree 0 nontrivial(ours) 6 time 6.552\
+9999999999999 s
+# order 729 and 16807 run with B0_CHECK_AIM=false (AbelianInvariantsMultiplier\
+ is the bottleneck, ~1-15 s/group)
+order 729 [all]: checked 504 agree 504 disagree 0 nontrivial(ours) 85 time 29.\
+727 s
+order 16807 [all]: checked 83 agree 83 disagree 0 nontrivial(ours) 6 time 25.9\
+43999999999999 s
+# done

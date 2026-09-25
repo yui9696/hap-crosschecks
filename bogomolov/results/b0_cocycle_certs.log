@@ -1,0 +1,69 @@
+# certificate production (B0Certificate) + table-only verification (VerifyB0Ce\
+rtificate), 2026-09-06
+cert 64#149: e=2 B0=[ 2 ] M=[ 2, 2 ] table=true cocycle=true nontriv_linalg=tr\
+ue(4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true tim\
+e=3.899 s
+cert 64#150: e=2 B0=[ 2 ] M=[ 2, 4 ] table=true cocycle=true nontriv_linalg=tr\
+ue(4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true tim\
+e=3.8999999999999999 s
+cert 64#151: e=2 B0=[ 2 ] M=[ 2, 2 ] table=true cocycle=true nontriv_linalg=tr\
+ue(4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true tim\
+e=4.0030000000000001 s
+cert 64#170: e=2 B0=[ 2 ] M=[ 4 ] table=true cocycle=true nontriv_linalg=true(\
+4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true time=4\
+.1550000000000002 s
+cert 64#171: e=2 B0=[ 2 ] M=[ 4 ] table=true cocycle=true nontriv_linalg=true(\
+4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true time=3\
+.5449999999999999 s
+cert 64#172: e=2 B0=[ 2 ] M=[ 4 ] table=true cocycle=true nontriv_linalg=true(\
+4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true time=4\
+.0270000000000001 s
+cert 64#177: e=2 B0=[ 2 ] M=[ 2, 4 ] table=true cocycle=true nontriv_linalg=tr\
+ue(4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true tim\
+e=3.8730000000000002 s
+cert 64#178: e=2 B0=[ 2 ] M=[ 2, 4 ] table=true cocycle=true nontriv_linalg=tr\
+ue(4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true tim\
+e=4.1059999999999999 s
+cert 64#182: e=2 B0=[ 2 ] M=[ 2 ] table=true cocycle=true nontriv_linalg=true(\
+4096 eqs, E=16) nontriv_group=true bicyclic_sym=true(480 pairs) OK=true time=4\
+.0369999999999999 s
+cert 128#36: e=2 B0=[ 2 ] M=[ 2, 2, 2, 2 ] table=true cocycle=true nontriv_lin\
+alg=true(256 eqs, E=8) nontriv_group=true bicyclic_sym=true(1600 pairs) OK=tru\
+e time=0.64800000000000002 s
+cert 128#1544: e=2 B0=[ 2, 2 ] M=[ 2, 2, 4, 4 ] table=true cocycle=true nontri\
+v_linalg=true(512 eqs, E=8) nontriv_group=true bicyclic_sym=true(1600 pairs) O\
+K=true time=0.99399999999999999 s
+cert 128#1988: e=2 B0=[ 2 ] M=[ 2, 2, 2, 2 ] table=true cocycle=true nontriv_l\
+inalg=true(512 eqs, E=16) nontriv_group=true bicyclic_sym=true(1600 pairs) OK=\
+true time=1.0309999999999999 s
+cert 243#28: e=3 B0=[ 3 ] M=[ 9 ] table=true cocycle=true nontriv_linalg=true(\
+486 eqs, E=27) nontriv_group=true bicyclic_sym=true(2187 pairs) OK=true time=3\
+.5950000000000002 s
+cert 243#29: e=3 B0=[ 3 ] M=[ 3 ] table=true cocycle=true nontriv_linalg=true(\
+486 eqs, E=27) nontriv_group=true bicyclic_sym=true(2187 pairs) OK=true time=3\
+.4590000000000001 s
+cert 243#30: e=3 B0=[ 3 ] M=[ 3 ] table=true cocycle=true nontriv_linalg=true(\
+486 eqs, E=27) nontriv_group=true bicyclic_sym=true(2187 pairs) OK=true time=3\
+.3319999999999999 s
+control(non-B0 class) [ 64, 149 ]: e=
+2
+  cocycle=true nontriv_linalg=true nontriv_group=true bicyclic_sym=false OK=fal\
+se (expected: true true true false false)
+control [ 64, 1 ]: no non-B0 class available (M0(G)=0 or M(G)=0)
+control(non-B0 class) [ 64, 60 ]: e=
+2
+  cocycle=true nontriv_linalg=true nontriv_group=true bicyclic_sym=false OK=fal\
+se (expected: true true true false false)
+control(non-B0 class) [ 128, 1544 ]: e=
+2
+  cocycle=true nontriv_linalg=true nontriv_group=true bicyclic_sym=false OK=fal\
+se (expected: true true true false false)
+control(non-B0 class) [ 243, 28 ]: e=
+9
+  cocycle=true nontriv_linalg=true nontriv_group=true bicyclic_sym=false OK=fal\
+se (expected: true true true false false)
+control(tampered entry) [64,149]: cocycle=false OK=false (expected: false fals\
+e)
+control(coboundary) [64,149]: cocycle=true nontriv_linalg=false nontriv_group=\
+false bicyclic_sym=true OK=false (expected: true false false true false)
+# done

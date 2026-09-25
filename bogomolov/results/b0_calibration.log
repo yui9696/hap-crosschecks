@@ -1,0 +1,14 @@
+#I  polymake command not found. Please set POLYMAKE_COMMAND by hand
+#I  HAP warning: Set NEATO_PATH manually if needed.
+#I  HAP warning: Set DOT_PATH manually if needed.
+#I  HAP warning: Set DISPLAY_PATH manually if needed.
+#I  HAP warning: Set BROWSER_PATH manually if needed.
+#I  HAP warning: Set ASY_PATH manually if needed.
+order 32: 51 groups, nontrivial B0: 0, time 0.029 s
+order 64: 267 groups, nontrivial B0: 9, time 0.784 s
+order 128: 2328 groups, nontrivial B0: 230, time 32.583 s
+order 243: 67 groups, nontrivial B0: 3, time 1.219 s
+order 3125: 77 groups, nontrivial B0: 6, time 10.162 s
+order 16807: 83 groups, nontrivial B0: 6, time 43.384 s
+order 729: 504 groups, nontrivial B0: 85, time 31.206 s
+order 256: 56092 groups, nontrivial B0: 5953, time 2543.277 s
