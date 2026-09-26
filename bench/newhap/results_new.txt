@@ -1,0 +1,1497 @@
+1 ResolutionFiniteGroup START
+1 ResolutionFiniteGroup DONE 3 ms  dims [ 1, 1, 1, 1, 1, 1 ]
+1 ResolutionGenericGroup START
+1 ResolutionGenericGroup DONE 5 ms  dims [ 1, 1, 1, 1, 1, 1 ]
+1 ResolutionNormalSeries START
+1 ResolutionNormalSeries DONE 5 ms  dims [ 1, 1, 1, 1, 1, 1 ]
+2 ResolutionFiniteGroup START
+2 ResolutionFiniteGroup DONE 4 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+2 ResolutionGenericGroup START
+2 ResolutionGenericGroup DONE 4 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+2 ResolutionNormalSeries START
+2 ResolutionNormalSeries DONE 4 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+3 ResolutionFiniteGroup START
+3 ResolutionFiniteGroup DONE 5 ms  dims [ 1, 2, 3, 4, 5, 7 ]
+3 ResolutionGenericGroup START
+3 ResolutionGenericGroup DONE 21 ms  dims [ 1, 5, 14, 29, 50, 77 ]
+3 ResolutionNormalSeries START
+3 ResolutionNormalSeries DONE 17 ms  dims [ 1, 5, 14, 29, 50, 77 ]
+4 ResolutionFiniteGroup START
+4 ResolutionFiniteGroup DONE 25 ms  dims [ 1, 2, 4, 8, 15, 22 ]
+4 ResolutionGenericGroup START
+4 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+4 ResolutionNormalSeries START
+4 ResolutionNormalSeries DONE 34 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+5 ResolutionFiniteGroup START
+5 ResolutionFiniteGroup DONE 22 ms  dims [ 1, 2, 5, 8, 13, 19 ]
+5 ResolutionGenericGroup START
+5 ResolutionGenericGroup DONE 35 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+5 ResolutionNormalSeries START
+5 ResolutionNormalSeries DONE 36 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+6 ResolutionFiniteGroup START
+6 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 2, 4, 7, 12, 18 ]
+6 ResolutionGenericGroup START
+6 ResolutionGenericGroup DONE 13 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+6 ResolutionNormalSeries START
+6 ResolutionNormalSeries DONE 27 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+7 ResolutionFiniteGroup START
+7 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 2, 5, 8, 12, 16 ]
+7 ResolutionGenericGroup START
+7 ResolutionGenericGroup DONE 13 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+7 ResolutionNormalSeries START
+7 ResolutionNormalSeries DONE 23 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+8 ResolutionFiniteGroup START
+8 ResolutionFiniteGroup DONE 35 ms  dims [ 1, 2, 4, 7, 12, 23 ]
+8 ResolutionGenericGroup START
+8 ResolutionGenericGroup DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+8 ResolutionNormalSeries START
+8 ResolutionNormalSeries DONE 43 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+9 ResolutionFiniteGroup START
+9 ResolutionFiniteGroup DONE 17 ms  dims [ 1, 2, 4, 6, 11, 17 ]
+9 ResolutionGenericGroup START
+9 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+9 ResolutionNormalSeries START
+9 ResolutionNormalSeries DONE 45 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+10 ResolutionFiniteGroup START
+10 ResolutionFiniteGroup DONE 10945 ms  dims [ 1, 2, 5, 8, 11, 19 ]
+10 ResolutionGenericGroup START
+10 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+10 ResolutionNormalSeries START
+10 ResolutionNormalSeries DONE 40 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+11 ResolutionFiniteGroup START
+11 ResolutionFiniteGroup DONE 391 ms  dims [ 1, 2, 3, 4, 5, 7 ]
+11 ResolutionGenericGroup START
+11 ResolutionGenericGroup DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+11 ResolutionNormalSeries START
+11 ResolutionNormalSeries DONE 47 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+12 ResolutionFiniteGroup START
+12 ResolutionFiniteGroup DONE 11 ms  dims [ 1, 2, 4, 6, 10, 14 ]
+12 ResolutionGenericGroup START
+12 ResolutionGenericGroup DONE 23 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+12 ResolutionNormalSeries START
+12 ResolutionNormalSeries DONE 42 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+13 ResolutionFiniteGroup START
+13 ResolutionFiniteGroup DONE 17 ms  dims [ 1, 2, 5, 7, 12, 20 ]
+13 ResolutionGenericGroup START
+13 ResolutionGenericGroup DONE 23 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+13 ResolutionNormalSeries START
+13 ResolutionNormalSeries DONE 43 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+14 ResolutionFiniteGroup START
+14 ResolutionFiniteGroup DONE 217 ms  dims [ 1, 2, 5, 9, 13, 18 ]
+14 ResolutionGenericGroup START
+14 ResolutionGenericGroup DONE 22 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+14 ResolutionNormalSeries START
+14 ResolutionNormalSeries DONE 43 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+15 ResolutionFiniteGroup START
+15 ResolutionFiniteGroup DONE 5 ms  dims [ 1, 2, 3, 4, 6, 7 ]
+15 ResolutionGenericGroup START
+15 ResolutionGenericGroup DONE 15 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+15 ResolutionNormalSeries START
+15 ResolutionNormalSeries DONE 24 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+16 ResolutionFiniteGroup START
+16 ResolutionFiniteGroup DONE 4 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+16 ResolutionGenericGroup START
+16 ResolutionGenericGroup DONE 13 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+16 ResolutionNormalSeries START
+16 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+17 ResolutionFiniteGroup START
+17 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 2, 5, 8, 13, 18 ]
+17 ResolutionGenericGroup START
+17 ResolutionGenericGroup DONE 13 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+17 ResolutionNormalSeries START
+17 ResolutionNormalSeries DONE 8 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+18 ResolutionFiniteGroup START
+19 ResolutionFiniteGroup START
+19 ResolutionFiniteGroup DONE 214 ms  dims [ 1, 2, 5, 8, 16, 44 ]
+19 ResolutionGenericGroup START
+19 ResolutionGenericGroup DONE 10 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+19 ResolutionNormalSeries START
+19 ResolutionNormalSeries DONE 8 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+20 ResolutionFiniteGroup START
+20 ResolutionFiniteGroup DONE 19 ms  dims [ 1, 2, 4, 7, 11, 17 ]
+20 ResolutionGenericGroup START
+20 ResolutionGenericGroup DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+20 ResolutionNormalSeries START
+20 ResolutionNormalSeries DONE 21 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+21 ResolutionFiniteGroup START
+21 ResolutionFiniteGroup DONE 18 ms  dims [ 1, 2, 5, 8, 13, 19 ]
+21 ResolutionGenericGroup START
+21 ResolutionGenericGroup DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+21 ResolutionNormalSeries START
+21 ResolutionNormalSeries DONE 21 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+22 ResolutionFiniteGroup START
+22 ResolutionFiniteGroup DONE 23 ms  dims [ 1, 2, 5, 7, 12, 18 ]
+22 ResolutionGenericGroup START
+22 ResolutionGenericGroup DONE 11 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+22 ResolutionNormalSeries START
+22 ResolutionNormalSeries DONE 22 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+23 ResolutionFiniteGroup START
+23 ResolutionFiniteGroup DONE 11 ms  dims [ 1, 2, 5, 9, 15, 22 ]
+23 ResolutionGenericGroup START
+23 ResolutionGenericGroup DONE 22 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+23 ResolutionNormalSeries START
+23 ResolutionNormalSeries DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+24 ResolutionFiniteGroup START
+24 ResolutionFiniteGroup DONE 107 ms  dims [ 1, 2, 5, 8, 13, 22 ]
+24 ResolutionGenericGroup START
+24 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+24 ResolutionNormalSeries START
+24 ResolutionNormalSeries DONE 21 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+25 ResolutionFiniteGroup START
+25 ResolutionFiniteGroup DONE 162 ms  dims [ 1, 2, 4, 7, 12, 22 ]
+25 ResolutionGenericGroup START
+25 ResolutionGenericGroup DONE 21 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+25 ResolutionNormalSeries START
+25 ResolutionNormalSeries DONE 21 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+26 ResolutionFiniteGroup START
+26 ResolutionFiniteGroup DONE 5 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+26 ResolutionGenericGroup START
+26 ResolutionGenericGroup DONE 5 ms  dims [ 1, 5, 13, 23, 33, 44 ]
+26 ResolutionNormalSeries START
+26 ResolutionNormalSeries DONE 6 ms  dims [ 1, 5, 13, 23, 33, 44 ]
+27 ResolutionFiniteGroup START
+27 ResolutionFiniteGroup DONE 12 ms  dims [ 1, 2, 4, 5, 6, 7 ]
+27 ResolutionGenericGroup START
+27 ResolutionGenericGroup DONE 12 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+27 ResolutionNormalSeries START
+27 ResolutionNormalSeries DONE 8 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+28 ResolutionFiniteGroup START
+28 ResolutionFiniteGroup DONE 8 ms  dims [ 1, 2, 3, 4, 7, 10 ]
+28 ResolutionGenericGroup START
+28 ResolutionGenericGroup DONE 13 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+28 ResolutionNormalSeries START
+28 ResolutionNormalSeries DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+29 ResolutionFiniteGroup START
+29 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 2, 4, 7, 11, 17 ]
+29 ResolutionGenericGroup START
+29 ResolutionGenericGroup DONE 17 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+29 ResolutionNormalSeries START
+29 ResolutionNormalSeries DONE 12 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+30 ResolutionFiniteGroup START
+30 ResolutionFiniteGroup DONE 109 ms  dims [ 1, 2, 4, 8, 13, 21 ]
+30 ResolutionGenericGroup START
+30 ResolutionGenericGroup DONE 34 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+30 ResolutionNormalSeries START
+30 ResolutionNormalSeries DONE 30 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+31 ResolutionFiniteGroup START
+31 ResolutionFiniteGroup DONE 20 ms  dims [ 1, 2, 3, 4, 6, 14 ]
+31 ResolutionGenericGroup START
+31 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+31 ResolutionNormalSeries START
+31 ResolutionNormalSeries DONE 41 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+32 ResolutionFiniteGroup START
+32 ResolutionFiniteGroup DONE 26 ms  dims [ 1, 2, 4, 7, 13, 24 ]
+32 ResolutionGenericGroup START
+32 ResolutionGenericGroup DONE 41 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+32 ResolutionNormalSeries START
+32 ResolutionNormalSeries DONE 48 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+33 ResolutionFiniteGroup START
+33 ResolutionFiniteGroup DONE 18 ms  dims [ 1, 2, 5, 8, 13, 20 ]
+33 ResolutionGenericGroup START
+33 ResolutionGenericGroup DONE 45 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+33 ResolutionNormalSeries START
+33 ResolutionNormalSeries DONE 55 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+34 ResolutionFiniteGroup START
+34 ResolutionFiniteGroup DONE 11 ms  dims [ 1, 2, 4, 6, 9, 12 ]
+34 ResolutionGenericGroup START
+34 ResolutionGenericGroup DONE 38 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+34 ResolutionNormalSeries START
+34 ResolutionNormalSeries DONE 59 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+35 ResolutionFiniteGroup START
+35 ResolutionFiniteGroup DONE 31 ms  dims [ 1, 2, 5, 9, 14, 19 ]
+35 ResolutionGenericGroup START
+35 ResolutionGenericGroup DONE 40 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+35 ResolutionNormalSeries START
+35 ResolutionNormalSeries DONE 60 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+36 ResolutionFiniteGroup START
+36 ResolutionFiniteGroup DONE 16672 ms  dims [ 1, 2, 5, 8, 13, 30 ]
+36 ResolutionGenericGroup START
+36 ResolutionGenericGroup DONE 37 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+36 ResolutionNormalSeries START
+36 ResolutionNormalSeries DONE 64 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+37 ResolutionFiniteGroup START
+37 ResolutionFiniteGroup DONE 5311 ms  dims [ 1, 2, 4, 6, 7, 13 ]
+37 ResolutionGenericGroup START
+37 ResolutionGenericGroup DONE 47 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+37 ResolutionNormalSeries START
+37 ResolutionNormalSeries DONE 64 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+38 ResolutionFiniteGroup START
+38 ResolutionFiniteGroup DONE 16 ms  dims [ 1, 2, 4, 7, 11, 16 ]
+38 ResolutionGenericGroup START
+38 ResolutionGenericGroup DONE 10 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+38 ResolutionNormalSeries START
+38 ResolutionNormalSeries DONE 60 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+39 ResolutionFiniteGroup START
+39 ResolutionFiniteGroup DONE 714 ms  dims [ 1, 2, 5, 8, 14, 39 ]
+39 ResolutionGenericGroup START
+39 ResolutionGenericGroup DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+39 ResolutionNormalSeries START
+39 ResolutionNormalSeries DONE 69 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+40 ResolutionFiniteGroup START
+40 ResolutionFiniteGroup DONE 24 ms  dims [ 1, 2, 4, 7, 12, 22 ]
+40 ResolutionGenericGroup START
+40 ResolutionGenericGroup DONE 10 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+40 ResolutionNormalSeries START
+40 ResolutionNormalSeries DONE 64 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+41 ResolutionFiniteGroup START
+41 ResolutionFiniteGroup DONE 243 ms  dims [ 1, 2, 4, 6, 14, 52 ]
+41 ResolutionGenericGroup START
+41 ResolutionGenericGroup DONE 19 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+41 ResolutionNormalSeries START
+41 ResolutionNormalSeries DONE 66 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+42 ResolutionFiniteGroup START
+42 ResolutionFiniteGroup DONE 118 ms  dims [ 1, 2, 4, 7, 12, 20 ]
+42 ResolutionGenericGroup START
+42 ResolutionGenericGroup DONE 23 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+42 ResolutionNormalSeries START
+42 ResolutionNormalSeries DONE 70 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+43 ResolutionFiniteGroup START
+43 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 2, 3, 4, 6, 10 ]
+43 ResolutionGenericGroup START
+43 ResolutionGenericGroup DONE 27 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+43 ResolutionNormalSeries START
+43 ResolutionNormalSeries DONE 66 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+44 ResolutionFiniteGroup START
+44 ResolutionFiniteGroup DONE 4 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+44 ResolutionGenericGroup START
+44 ResolutionGenericGroup DONE 19 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+44 ResolutionNormalSeries START
+44 ResolutionNormalSeries DONE 14 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+45 ResolutionFiniteGroup START
+45 ResolutionFiniteGroup DONE 20 ms  dims [ 1, 2, 4, 6, 8, 12 ]
+45 ResolutionGenericGroup START
+45 ResolutionGenericGroup DONE 13 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+45 ResolutionNormalSeries START
+45 ResolutionNormalSeries DONE 29 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+46 ResolutionFiniteGroup START
+46 ResolutionFiniteGroup DONE 46 ms  dims [ 1, 2, 3, 4, 7, 30 ]
+46 ResolutionGenericGroup START
+46 ResolutionGenericGroup DONE 20 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+46 ResolutionNormalSeries START
+46 ResolutionNormalSeries DONE 46 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+47 ResolutionFiniteGroup START
+47 ResolutionFiniteGroup DONE 5 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+47 ResolutionGenericGroup START
+47 ResolutionGenericGroup DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+47 ResolutionNormalSeries START
+47 ResolutionNormalSeries DONE 57 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+48 ResolutionFiniteGroup START
+48 ResolutionFiniteGroup DONE 93 ms  dims [ 1, 2, 5, 8, 10, 17 ]
+48 ResolutionGenericGroup START
+48 ResolutionGenericGroup DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+48 ResolutionNormalSeries START
+48 ResolutionNormalSeries DONE 60 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+49 ResolutionFiniteGroup START
+49 ResolutionFiniteGroup DONE 5 ms  dims [ 1, 2, 3, 4, 4, 4 ]
+49 ResolutionGenericGroup START
+49 ResolutionGenericGroup DONE 12 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+49 ResolutionNormalSeries START
+49 ResolutionNormalSeries DONE 61 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+50 ResolutionFiniteGroup START
+50 ResolutionFiniteGroup DONE 6 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+50 ResolutionGenericGroup START
+50 ResolutionGenericGroup DONE 5 ms  dims [ 1, 3, 5, 7, 9, 11 ]
+50 ResolutionNormalSeries START
+50 ResolutionNormalSeries DONE 10 ms  dims [ 1, 3, 5, 7, 9, 11 ]
+51 ResolutionFiniteGroup START
+51 ResolutionFiniteGroup DONE 6 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+51 ResolutionGenericGroup START
+51 ResolutionGenericGroup DONE 18 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+51 ResolutionNormalSeries START
+51 ResolutionNormalSeries DONE 13 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+52 ResolutionFiniteGroup START
+52 ResolutionFiniteGroup DONE 7 ms  dims [ 1, 2, 3, 4, 5, 6 ]
+52 ResolutionGenericGroup START
+52 ResolutionGenericGroup DONE 11 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+52 ResolutionNormalSeries START
+52 ResolutionNormalSeries DONE 153 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+53 ResolutionFiniteGroup START
+53 ResolutionFiniteGroup DONE 16 ms  dims [ 1, 2, 4, 7, 10, 13 ]
+53 ResolutionGenericGroup START
+53 ResolutionGenericGroup DONE 10 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+53 ResolutionNormalSeries START
+53 ResolutionNormalSeries DONE 170 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+54 ResolutionFiniteGroup START
+54 ResolutionFiniteGroup DONE 6 ms  dims [ 1, 2, 3, 4, 4, 3 ]
+54 ResolutionGenericGroup START
+54 ResolutionGenericGroup DONE 15 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+54 ResolutionNormalSeries START
+54 ResolutionNormalSeries DONE 190 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+55 ResolutionFiniteGroup START
+55 ResolutionFiniteGroup DONE 8 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+55 ResolutionGenericGroup START
+55 ResolutionGenericGroup DONE 7 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+55 ResolutionNormalSeries START
+55 ResolutionNormalSeries DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+56 ResolutionFiniteGroup START
+56 ResolutionFiniteGroup DONE 26 ms  dims [ 1, 3, 8, 16, 29, 50 ]
+56 ResolutionGenericGroup START
+56 ResolutionGenericGroup DONE 17 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+56 ResolutionNormalSeries START
+56 ResolutionNormalSeries DONE 14 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+57 ResolutionFiniteGroup START
+57 ResolutionFiniteGroup DONE 41 ms  dims [ 1, 3, 7, 12, 18, 30 ]
+57 ResolutionGenericGroup START
+57 ResolutionGenericGroup DONE 82 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+57 ResolutionNormalSeries START
+57 ResolutionNormalSeries DONE 13 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+58 ResolutionFiniteGroup START
+58 ResolutionFiniteGroup DONE 28 ms  dims [ 1, 3, 7, 14, 26, 46 ]
+58 ResolutionGenericGroup START
+58 ResolutionGenericGroup DONE 24 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+58 ResolutionNormalSeries START
+58 ResolutionNormalSeries DONE 19 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+59 ResolutionFiniteGroup START
+59 ResolutionFiniteGroup DONE 1925 ms  dims [ 1, 3, 7, 11, 22, 47 ]
+59 ResolutionGenericGroup START
+59 ResolutionGenericGroup DONE 21 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+59 ResolutionNormalSeries START
+59 ResolutionNormalSeries DONE 77 ms  dims [ 1, 5, 14, 30, 55, 91 ]
+60 ResolutionFiniteGroup START
+60 ResolutionFiniteGroup DONE 70 ms  dims [ 1, 3, 9, 21, 42, 78 ]
+60 ResolutionGenericGroup START
+60 ResolutionGenericGroup DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+60 ResolutionNormalSeries START
+60 ResolutionNormalSeries DONE 21 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+61 ResolutionFiniteGroup START
+61 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 3, 7, 14, 25, 42 ]
+61 ResolutionGenericGroup START
+61 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+61 ResolutionNormalSeries START
+61 ResolutionNormalSeries DONE 23 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+62 ResolutionFiniteGroup START
+62 ResolutionFiniteGroup DONE 41416 ms  dims [ 1, 3, 7, 14, 28, 58 ]
+62 ResolutionGenericGroup START
+62 ResolutionGenericGroup DONE 23 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+62 ResolutionNormalSeries START
+62 ResolutionNormalSeries DONE 20 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+63 ResolutionFiniteGroup START
+64 ResolutionFiniteGroup START
+65 ResolutionFiniteGroup START
+65 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+65 ResolutionGenericGroup START
+65 ResolutionGenericGroup DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+65 ResolutionNormalSeries START
+65 ResolutionNormalSeries DONE 23 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+66 ResolutionFiniteGroup START
+66 ResolutionFiniteGroup DONE 122 ms  dims [ 1, 3, 7, 15, 26, 44 ]
+66 ResolutionGenericGroup START
+66 ResolutionGenericGroup DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+66 ResolutionNormalSeries START
+66 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+67 ResolutionFiniteGroup START
+67 ResolutionFiniteGroup DONE 34 ms  dims [ 1, 3, 8, 16, 30, 55 ]
+67 ResolutionGenericGroup START
+67 ResolutionGenericGroup DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+67 ResolutionNormalSeries START
+67 ResolutionNormalSeries DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+68 ResolutionFiniteGroup START
+68 ResolutionFiniteGroup DONE 4881 ms  dims [ 1, 3, 5, 10, 19, 45 ]
+68 ResolutionGenericGroup START
+68 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+68 ResolutionNormalSeries START
+68 ResolutionNormalSeries DONE 23 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+69 ResolutionFiniteGroup START
+69 ResolutionFiniteGroup DONE 85573 ms  dims [ 1, 3, 8, 15, 26, 55 ]
+69 ResolutionGenericGroup START
+69 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+69 ResolutionNormalSeries START
+69 ResolutionNormalSeries DONE 24 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+70 ResolutionFiniteGroup START
+70 ResolutionFiniteGroup DONE 17 ms  dims [ 1, 3, 6, 11, 17, 23 ]
+70 ResolutionGenericGroup START
+70 ResolutionGenericGroup DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+70 ResolutionNormalSeries START
+70 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+71 ResolutionFiniteGroup START
+71 ResolutionFiniteGroup DONE 13 ms  dims [ 1, 3, 7, 13, 22, 35 ]
+71 ResolutionGenericGroup START
+71 ResolutionGenericGroup DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+71 ResolutionNormalSeries START
+71 ResolutionNormalSeries DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+72 ResolutionFiniteGroup START
+72 ResolutionFiniteGroup DONE 49057 ms  dims [ 1, 3, 6, 11, 19, 105 ]
+72 ResolutionGenericGroup START
+72 ResolutionGenericGroup DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+72 ResolutionNormalSeries START
+72 ResolutionNormalSeries DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+73 ResolutionFiniteGroup START
+73 ResolutionFiniteGroup DONE 1954 ms  dims [ 1, 3, 8, 17, 31, 58 ]
+73 ResolutionGenericGroup START
+73 ResolutionGenericGroup DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+73 ResolutionNormalSeries START
+73 ResolutionNormalSeries DONE 36 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+74 ResolutionFiniteGroup START
+74 ResolutionFiniteGroup DONE 5855 ms  dims [ 1, 3, 8, 16, 28, 50 ]
+74 ResolutionGenericGroup START
+74 ResolutionGenericGroup DONE 41 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+74 ResolutionNormalSeries START
+74 ResolutionNormalSeries DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+75 ResolutionFiniteGroup START
+76 ResolutionFiniteGroup START
+76 ResolutionFiniteGroup DONE 74147 ms  dims [ 1, 3, 7, 14, 26, 59 ]
+76 ResolutionGenericGroup START
+76 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+76 ResolutionNormalSeries START
+76 ResolutionNormalSeries DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+77 ResolutionFiniteGroup START
+77 ResolutionFiniteGroup DONE 842 ms  dims [ 1, 3, 6, 12, 21, 34 ]
+77 ResolutionGenericGroup START
+77 ResolutionGenericGroup DONE 49 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+77 ResolutionNormalSeries START
+77 ResolutionNormalSeries DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+78 ResolutionFiniteGroup START
+78 ResolutionFiniteGroup DONE 39865 ms  dims [ 1, 3, 6, 12, 22, 56 ]
+78 ResolutionGenericGroup START
+78 ResolutionGenericGroup DONE 42 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+78 ResolutionNormalSeries START
+78 ResolutionNormalSeries DONE 58 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+79 ResolutionFiniteGroup START
+79 ResolutionFiniteGroup DONE 35 ms  dims [ 1, 3, 6, 11, 18, 29 ]
+79 ResolutionGenericGroup START
+79 ResolutionGenericGroup DONE 48 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+79 ResolutionNormalSeries START
+79 ResolutionNormalSeries DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+80 ResolutionFiniteGroup START
+80 ResolutionFiniteGroup DONE 135 ms  dims [ 1, 3, 6, 12, 22, 34 ]
+80 ResolutionGenericGroup START
+80 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+80 ResolutionNormalSeries START
+80 ResolutionNormalSeries DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+81 ResolutionFiniteGroup START
+81 ResolutionFiniteGroup DONE 17785 ms  dims [ 1, 3, 6, 12, 20, 41 ]
+81 ResolutionGenericGroup START
+81 ResolutionGenericGroup DONE 51 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+81 ResolutionNormalSeries START
+81 ResolutionNormalSeries DONE 42 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+82 ResolutionFiniteGroup START
+83 ResolutionFiniteGroup START
+83 ResolutionFiniteGroup DONE 10 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+83 ResolutionGenericGroup START
+83 ResolutionGenericGroup DONE 8 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+83 ResolutionNormalSeries START
+83 ResolutionNormalSeries DONE 12 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+84 ResolutionFiniteGroup START
+84 ResolutionFiniteGroup DONE 11 ms  dims [ 1, 3, 6, 10, 15, 22 ]
+84 ResolutionGenericGroup START
+84 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+84 ResolutionNormalSeries START
+84 ResolutionNormalSeries DONE 14 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+85 ResolutionFiniteGroup START
+85 ResolutionFiniteGroup DONE 7 ms  dims [ 1, 3, 5, 7, 10, 14 ]
+85 ResolutionGenericGroup START
+85 ResolutionGenericGroup DONE 20 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+85 ResolutionNormalSeries START
+85 ResolutionNormalSeries DONE 13 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+86 ResolutionFiniteGroup START
+86 ResolutionFiniteGroup DONE 25 ms  dims [ 1, 3, 7, 12, 18, 26 ]
+86 ResolutionGenericGroup START
+86 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+86 ResolutionNormalSeries START
+86 ResolutionNormalSeries DONE 14 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+87 ResolutionFiniteGroup START
+87 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 3, 7, 14, 25, 42 ]
+87 ResolutionGenericGroup START
+87 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+87 ResolutionNormalSeries START
+87 ResolutionNormalSeries DONE 15 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+88 ResolutionFiniteGroup START
+88 ResolutionFiniteGroup DONE 38 ms  dims [ 1, 3, 6, 12, 23, 39 ]
+88 ResolutionGenericGroup START
+88 ResolutionGenericGroup DONE 28 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+88 ResolutionNormalSeries START
+88 ResolutionNormalSeries DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+89 ResolutionFiniteGroup START
+89 ResolutionFiniteGroup DONE 15399 ms  dims [ 1, 3, 7, 14, 24, 66 ]
+89 ResolutionGenericGroup START
+89 ResolutionGenericGroup DONE 35 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+89 ResolutionNormalSeries START
+89 ResolutionNormalSeries DONE 21 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+90 ResolutionFiniteGroup START
+90 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 3, 7, 13, 22, 35 ]
+90 ResolutionGenericGroup START
+90 ResolutionGenericGroup DONE 28 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+90 ResolutionNormalSeries START
+90 ResolutionNormalSeries DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+91 ResolutionFiniteGroup START
+91 ResolutionFiniteGroup DONE 48 ms  dims [ 1, 3, 7, 13, 21, 33 ]
+91 ResolutionGenericGroup START
+91 ResolutionGenericGroup DONE 37 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+91 ResolutionNormalSeries START
+91 ResolutionNormalSeries DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+92 ResolutionFiniteGroup START
+92 ResolutionFiniteGroup DONE 238 ms  dims [ 1, 3, 7, 15, 28, 44 ]
+92 ResolutionGenericGroup START
+92 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+92 ResolutionNormalSeries START
+92 ResolutionNormalSeries DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+93 ResolutionFiniteGroup START
+93 ResolutionFiniteGroup DONE 22 ms  dims [ 1, 3, 6, 10, 15, 24 ]
+93 ResolutionGenericGroup START
+93 ResolutionGenericGroup DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+93 ResolutionNormalSeries START
+93 ResolutionNormalSeries DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+94 ResolutionFiniteGroup START
+94 ResolutionFiniteGroup DONE 37 ms  dims [ 1, 3, 6, 11, 18, 28 ]
+94 ResolutionGenericGroup START
+94 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+94 ResolutionNormalSeries START
+94 ResolutionNormalSeries DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+95 ResolutionFiniteGroup START
+95 ResolutionFiniteGroup DONE 41 ms  dims [ 1, 3, 7, 14, 24, 41 ]
+95 ResolutionGenericGroup START
+95 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+95 ResolutionNormalSeries START
+95 ResolutionNormalSeries DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+96 ResolutionFiniteGroup START
+96 ResolutionFiniteGroup DONE 132 ms  dims [ 1, 3, 8, 16, 28, 51 ]
+96 ResolutionGenericGroup START
+96 ResolutionGenericGroup DONE 15 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+96 ResolutionNormalSeries START
+96 ResolutionNormalSeries DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+97 ResolutionFiniteGroup START
+97 ResolutionFiniteGroup DONE 165 ms  dims [ 1, 3, 6, 10, 15, 26 ]
+97 ResolutionGenericGroup START
+97 ResolutionGenericGroup DONE 17 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+97 ResolutionNormalSeries START
+97 ResolutionNormalSeries DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+98 ResolutionFiniteGroup START
+98 ResolutionFiniteGroup DONE 40 ms  dims [ 1, 3, 6, 10, 16, 24 ]
+98 ResolutionGenericGroup START
+98 ResolutionGenericGroup DONE 17 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+98 ResolutionNormalSeries START
+98 ResolutionNormalSeries DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+99 ResolutionFiniteGroup START
+99 ResolutionFiniteGroup DONE 299 ms  dims [ 1, 3, 6, 11, 20, 40 ]
+99 ResolutionGenericGroup START
+99 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+99 ResolutionNormalSeries START
+99 ResolutionNormalSeries DONE 35 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+100 ResolutionFiniteGroup START
+101 ResolutionFiniteGroup START
+101 ResolutionFiniteGroup DONE 19 ms  dims [ 1, 3, 7, 13, 21, 32 ]
+101 ResolutionGenericGroup START
+101 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+101 ResolutionNormalSeries START
+101 ResolutionNormalSeries DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+102 ResolutionFiniteGroup START
+102 ResolutionFiniteGroup DONE 2326 ms  dims [ 1, 3, 7, 13, 20, 37 ]
+102 ResolutionGenericGroup START
+102 ResolutionGenericGroup DONE 17 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+102 ResolutionNormalSeries START
+102 ResolutionNormalSeries DONE 38 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+103 ResolutionFiniteGroup START
+103 ResolutionFiniteGroup DONE 10 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+103 ResolutionGenericGroup START
+103 ResolutionGenericGroup DONE 22 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+103 ResolutionNormalSeries START
+103 ResolutionNormalSeries DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+104 ResolutionFiniteGroup START
+104 ResolutionFiniteGroup DONE 8 ms  dims [ 1, 3, 5, 7, 10, 14 ]
+104 ResolutionGenericGroup START
+104 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+104 ResolutionNormalSeries START
+104 ResolutionNormalSeries DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+105 ResolutionFiniteGroup START
+105 ResolutionFiniteGroup DONE 29 ms  dims [ 1, 3, 7, 12, 17, 32 ]
+105 ResolutionGenericGroup START
+105 ResolutionGenericGroup DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+105 ResolutionNormalSeries START
+105 ResolutionNormalSeries DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+106 ResolutionFiniteGroup START
+106 ResolutionFiniteGroup DONE 18 ms  dims [ 1, 3, 6, 10, 15, 22 ]
+106 ResolutionGenericGroup START
+106 ResolutionGenericGroup DONE 15 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+106 ResolutionNormalSeries START
+106 ResolutionNormalSeries DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+107 ResolutionFiniteGroup START
+107 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+107 ResolutionGenericGroup START
+107 ResolutionGenericGroup DONE 23 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+107 ResolutionNormalSeries START
+107 ResolutionNormalSeries DONE 37 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+108 ResolutionFiniteGroup START
+108 ResolutionFiniteGroup DONE 695 ms  dims [ 1, 3, 6, 10, 15, 26 ]
+108 ResolutionGenericGroup START
+108 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+108 ResolutionNormalSeries START
+108 ResolutionNormalSeries DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+109 ResolutionFiniteGroup START
+109 ResolutionFiniteGroup DONE 250 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+109 ResolutionGenericGroup START
+109 ResolutionGenericGroup DONE 17 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+109 ResolutionNormalSeries START
+109 ResolutionNormalSeries DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+110 ResolutionFiniteGroup START
+110 ResolutionFiniteGroup DONE 26 ms  dims [ 1, 3, 6, 10, 15, 23 ]
+110 ResolutionGenericGroup START
+110 ResolutionGenericGroup DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+110 ResolutionNormalSeries START
+110 ResolutionNormalSeries DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+111 ResolutionFiniteGroup START
+111 ResolutionFiniteGroup DONE 394 ms  dims [ 1, 3, 5, 6, 12, 44 ]
+111 ResolutionGenericGroup START
+111 ResolutionGenericGroup DONE 20 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+111 ResolutionNormalSeries START
+111 ResolutionNormalSeries DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+112 ResolutionFiniteGroup START
+112 ResolutionFiniteGroup DONE 18 ms  dims [ 1, 3, 6, 9, 12, 17 ]
+112 ResolutionGenericGroup START
+112 ResolutionGenericGroup DONE 20 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+112 ResolutionNormalSeries START
+112 ResolutionNormalSeries DONE 15 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+113 ResolutionFiniteGroup START
+114 ResolutionFiniteGroup START
+114 ResolutionFiniteGroup DONE 2479 ms  dims [ 1, 3, 6, 11, 20, 37 ]
+114 ResolutionGenericGroup START
+114 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+114 ResolutionNormalSeries START
+114 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+115 ResolutionFiniteGroup START
+115 ResolutionFiniteGroup DONE 22 ms  dims [ 1, 3, 6, 11, 20, 33 ]
+115 ResolutionGenericGroup START
+115 ResolutionGenericGroup DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+115 ResolutionNormalSeries START
+115 ResolutionNormalSeries DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+116 ResolutionFiniteGroup START
+116 ResolutionFiniteGroup DONE 29 ms  dims [ 1, 3, 5, 9, 17, 30 ]
+116 ResolutionGenericGroup START
+116 ResolutionGenericGroup DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+116 ResolutionNormalSeries START
+116 ResolutionNormalSeries DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+117 ResolutionFiniteGroup START
+117 ResolutionFiniteGroup DONE 8957 ms  dims [ 1, 3, 6, 10, 18, 65 ]
+117 ResolutionGenericGroup START
+117 ResolutionGenericGroup DONE 36 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+117 ResolutionNormalSeries START
+117 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+118 ResolutionFiniteGroup START
+118 ResolutionFiniteGroup DONE 42 ms  dims [ 1, 3, 6, 11, 18, 31 ]
+118 ResolutionGenericGroup START
+118 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+118 ResolutionNormalSeries START
+118 ResolutionNormalSeries DONE 40 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+119 ResolutionFiniteGroup START
+119 ResolutionFiniteGroup DONE 2021 ms  dims [ 1, 3, 7, 14, 25, 49 ]
+119 ResolutionGenericGroup START
+119 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+119 ResolutionNormalSeries START
+119 ResolutionNormalSeries DONE 36 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+120 ResolutionFiniteGroup START
+120 ResolutionFiniteGroup DONE 14533 ms  dims [ 1, 3, 8, 14, 26, 84 ]
+120 ResolutionGenericGroup START
+120 ResolutionGenericGroup DONE 17 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+120 ResolutionNormalSeries START
+120 ResolutionNormalSeries DONE 44 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+121 ResolutionFiniteGroup START
+121 ResolutionFiniteGroup DONE 44 ms  dims [ 1, 3, 5, 7, 12, 26 ]
+121 ResolutionGenericGroup START
+121 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+121 ResolutionNormalSeries START
+121 ResolutionNormalSeries DONE 44 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+122 ResolutionFiniteGroup START
+122 ResolutionFiniteGroup DONE 34982 ms  dims [ 1, 3, 7, 12, 25, 72 ]
+122 ResolutionGenericGroup START
+122 ResolutionGenericGroup DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+122 ResolutionNormalSeries START
+122 ResolutionNormalSeries DONE 41 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+123 ResolutionFiniteGroup START
+123 ResolutionFiniteGroup DONE 14066 ms  dims [ 1, 3, 7, 12, 19, 40 ]
+123 ResolutionGenericGroup START
+123 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+123 ResolutionNormalSeries START
+123 ResolutionNormalSeries DONE 47 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+124 ResolutionFiniteGroup START
+124 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 3, 6, 10, 15, 20 ]
+124 ResolutionGenericGroup START
+124 ResolutionGenericGroup DONE 17 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+124 ResolutionNormalSeries START
+124 ResolutionNormalSeries DONE 43 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+125 ResolutionFiniteGroup START
+125 ResolutionFiniteGroup DONE 35 ms  dims [ 1, 3, 5, 9, 15, 22 ]
+125 ResolutionGenericGroup START
+125 ResolutionGenericGroup DONE 20 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+125 ResolutionNormalSeries START
+125 ResolutionNormalSeries DONE 47 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+126 ResolutionFiniteGroup START
+126 ResolutionFiniteGroup DONE 10 ms  dims [ 1, 3, 6, 10, 14, 17 ]
+126 ResolutionGenericGroup START
+126 ResolutionGenericGroup DONE 22 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+126 ResolutionNormalSeries START
+126 ResolutionNormalSeries DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+127 ResolutionFiniteGroup START
+127 ResolutionFiniteGroup DONE 10 ms  dims [ 1, 3, 6, 8, 10, 13 ]
+127 ResolutionGenericGroup START
+127 ResolutionGenericGroup DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+127 ResolutionNormalSeries START
+127 ResolutionNormalSeries DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+128 ResolutionFiniteGroup START
+128 ResolutionFiniteGroup DONE 25 ms  dims [ 1, 3, 7, 13, 22, 36 ]
+128 ResolutionGenericGroup START
+128 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+128 ResolutionNormalSeries START
+128 ResolutionNormalSeries DONE 52 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+129 ResolutionFiniteGroup START
+129 ResolutionFiniteGroup DONE 42 ms  dims [ 1, 3, 8, 15, 25, 40 ]
+129 ResolutionGenericGroup START
+129 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+129 ResolutionNormalSeries START
+129 ResolutionNormalSeries DONE 52 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+130 ResolutionFiniteGroup START
+130 ResolutionFiniteGroup DONE 546 ms  dims [ 1, 3, 7, 12, 20, 39 ]
+130 ResolutionGenericGroup START
+130 ResolutionGenericGroup DONE 22 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+130 ResolutionNormalSeries START
+130 ResolutionNormalSeries DONE 50 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+131 ResolutionFiniteGroup START
+131 ResolutionFiniteGroup DONE 239 ms  dims [ 1, 3, 9, 20, 38, 75 ]
+131 ResolutionGenericGroup START
+131 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+131 ResolutionNormalSeries START
+131 ResolutionNormalSeries DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+132 ResolutionFiniteGroup START
+132 ResolutionFiniteGroup DONE 2290 ms  dims [ 1, 3, 7, 14, 25, 42 ]
+132 ResolutionGenericGroup START
+132 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+132 ResolutionNormalSeries START
+132 ResolutionNormalSeries DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+133 ResolutionFiniteGroup START
+133 ResolutionFiniteGroup DONE 3734 ms  dims [ 1, 3, 7, 14, 29, 51 ]
+133 ResolutionGenericGroup START
+133 ResolutionGenericGroup DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+133 ResolutionNormalSeries START
+133 ResolutionNormalSeries DONE 60 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+134 ResolutionFiniteGroup START
+134 ResolutionFiniteGroup DONE 41 ms  dims [ 1, 3, 6, 10, 15, 23 ]
+134 ResolutionGenericGroup START
+134 ResolutionGenericGroup DONE 28 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+134 ResolutionNormalSeries START
+134 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+135 ResolutionFiniteGroup START
+135 ResolutionFiniteGroup DONE 4196 ms  dims [ 1, 3, 7, 12, 19, 52 ]
+135 ResolutionGenericGroup START
+135 ResolutionGenericGroup DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+135 ResolutionNormalSeries START
+135 ResolutionNormalSeries DONE 60 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+136 ResolutionFiniteGroup START
+136 ResolutionFiniteGroup DONE 188 ms  dims [ 1, 3, 9, 19, 34, 59 ]
+136 ResolutionGenericGroup START
+136 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+136 ResolutionNormalSeries START
+136 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+137 ResolutionFiniteGroup START
+137 ResolutionFiniteGroup DONE 2895 ms  dims [ 1, 3, 7, 14, 24, 48 ]
+137 ResolutionGenericGroup START
+137 ResolutionGenericGroup DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+137 ResolutionNormalSeries START
+137 ResolutionNormalSeries DONE 61 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+138 ResolutionFiniteGroup START
+138 ResolutionFiniteGroup DONE 137 ms  dims [ 1, 3, 7, 13, 20, 34 ]
+138 ResolutionGenericGroup START
+138 ResolutionGenericGroup DONE 48 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+138 ResolutionNormalSeries START
+138 ResolutionNormalSeries DONE 50 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+139 ResolutionFiniteGroup START
+139 ResolutionFiniteGroup DONE 611 ms  dims [ 1, 3, 9, 20, 38, 72 ]
+139 ResolutionGenericGroup START
+139 ResolutionGenericGroup DONE 48 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+139 ResolutionNormalSeries START
+139 ResolutionNormalSeries DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+140 ResolutionFiniteGroup START
+140 ResolutionFiniteGroup DONE 19 ms  dims [ 1, 3, 6, 10, 16, 25 ]
+140 ResolutionGenericGroup START
+140 ResolutionGenericGroup DONE 51 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+140 ResolutionNormalSeries START
+140 ResolutionNormalSeries DONE 53 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+141 ResolutionFiniteGroup START
+141 ResolutionFiniteGroup DONE 25 ms  dims [ 1, 3, 7, 13, 21, 32 ]
+141 ResolutionGenericGroup START
+141 ResolutionGenericGroup DONE 54 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+141 ResolutionNormalSeries START
+141 ResolutionNormalSeries DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+142 ResolutionFiniteGroup START
+142 ResolutionFiniteGroup DONE 20 ms  dims [ 1, 3, 7, 13, 20, 30 ]
+142 ResolutionGenericGroup START
+142 ResolutionGenericGroup DONE 54 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+142 ResolutionNormalSeries START
+142 ResolutionNormalSeries DONE 56 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+143 ResolutionFiniteGroup START
+143 ResolutionFiniteGroup DONE 32 ms  dims [ 1, 3, 6, 10, 15, 36 ]
+143 ResolutionGenericGroup START
+143 ResolutionGenericGroup DONE 56 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+143 ResolutionNormalSeries START
+143 ResolutionNormalSeries DONE 58 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+144 ResolutionFiniteGroup START
+144 ResolutionFiniteGroup DONE 985 ms  dims [ 1, 3, 8, 16, 28, 50 ]
+144 ResolutionGenericGroup START
+144 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+144 ResolutionNormalSeries START
+144 ResolutionNormalSeries DONE 52 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+145 ResolutionFiniteGroup START
+145 ResolutionFiniteGroup DONE 83940 ms  dims [ 1, 3, 6, 11, 23, 83 ]
+145 ResolutionGenericGroup START
+145 ResolutionGenericGroup DONE 56 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+145 ResolutionNormalSeries START
+145 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+146 ResolutionFiniteGroup START
+146 ResolutionFiniteGroup DONE 13 ms  dims [ 1, 3, 5, 8, 14, 21 ]
+146 ResolutionGenericGroup START
+146 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+146 ResolutionNormalSeries START
+146 ResolutionNormalSeries DONE 53 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+147 ResolutionFiniteGroup START
+147 ResolutionFiniteGroup DONE 19 ms  dims [ 1, 3, 6, 10, 16, 24 ]
+147 ResolutionGenericGroup START
+147 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+147 ResolutionNormalSeries START
+147 ResolutionNormalSeries DONE 57 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+148 ResolutionFiniteGroup START
+148 ResolutionFiniteGroup DONE 33 ms  dims [ 1, 3, 7, 14, 23, 37 ]
+148 ResolutionGenericGroup START
+148 ResolutionGenericGroup DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+148 ResolutionNormalSeries START
+148 ResolutionNormalSeries DONE 58 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+149 ResolutionFiniteGroup START
+149 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 3, 5, 7, 10, 15 ]
+149 ResolutionGenericGroup START
+149 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+149 ResolutionNormalSeries START
+149 ResolutionNormalSeries DONE 56 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+150 ResolutionFiniteGroup START
+150 ResolutionFiniteGroup DONE 25 ms  dims [ 1, 3, 5, 8, 13, 21 ]
+150 ResolutionGenericGroup START
+150 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+150 ResolutionNormalSeries START
+150 ResolutionNormalSeries DONE 57 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+151 ResolutionFiniteGroup START
+151 ResolutionFiniteGroup DONE 15510 ms  dims [ 1, 3, 6, 12, 20, 42 ]
+151 ResolutionGenericGroup START
+151 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+151 ResolutionNormalSeries START
+151 ResolutionNormalSeries DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+152 ResolutionFiniteGroup START
+152 ResolutionFiniteGroup DONE 119 ms  dims [ 1, 3, 5, 7, 10, 15 ]
+152 ResolutionGenericGroup START
+152 ResolutionGenericGroup DONE 28 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+152 ResolutionNormalSeries START
+152 ResolutionNormalSeries DONE 62 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+153 ResolutionFiniteGroup START
+153 ResolutionFiniteGroup DONE 24 ms  dims [ 1, 3, 6, 9, 12, 16 ]
+153 ResolutionGenericGroup START
+153 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+153 ResolutionNormalSeries START
+153 ResolutionNormalSeries DONE 64 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+154 ResolutionFiniteGroup START
+154 ResolutionFiniteGroup DONE 29 ms  dims [ 1, 3, 7, 13, 18, 26 ]
+154 ResolutionGenericGroup START
+154 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+154 ResolutionNormalSeries START
+154 ResolutionNormalSeries DONE 63 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+155 ResolutionFiniteGroup START
+155 ResolutionFiniteGroup DONE 338 ms  dims [ 1, 3, 6, 10, 18, 33 ]
+155 ResolutionGenericGroup START
+155 ResolutionGenericGroup DONE 54 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+155 ResolutionNormalSeries START
+155 ResolutionNormalSeries DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+156 ResolutionFiniteGroup START
+156 ResolutionFiniteGroup DONE 31255 ms  dims [ 1, 3, 7, 14, 22, 53 ]
+156 ResolutionGenericGroup START
+156 ResolutionGenericGroup DONE 53 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+156 ResolutionNormalSeries START
+156 ResolutionNormalSeries DONE 52 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+157 ResolutionFiniteGroup START
+157 ResolutionFiniteGroup DONE 165 ms  dims [ 1, 3, 7, 13, 23, 46 ]
+157 ResolutionGenericGroup START
+157 ResolutionGenericGroup DONE 56 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+157 ResolutionNormalSeries START
+157 ResolutionNormalSeries DONE 60 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+158 ResolutionFiniteGroup START
+158 ResolutionFiniteGroup DONE 862 ms  dims [ 1, 3, 7, 12, 18, 43 ]
+158 ResolutionGenericGroup START
+158 ResolutionGenericGroup DONE 61 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+158 ResolutionNormalSeries START
+158 ResolutionNormalSeries DONE 66 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+159 ResolutionFiniteGroup START
+159 ResolutionFiniteGroup DONE 3211 ms  dims [ 1, 3, 7, 14, 21, 31 ]
+159 ResolutionGenericGroup START
+159 ResolutionGenericGroup DONE 51 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+159 ResolutionNormalSeries START
+159 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+160 ResolutionFiniteGroup START
+161 ResolutionFiniteGroup START
+161 ResolutionFiniteGroup DONE 6653 ms  dims [ 1, 3, 5, 8, 14, 32 ]
+161 ResolutionGenericGroup START
+161 ResolutionGenericGroup DONE 53 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+161 ResolutionNormalSeries START
+161 ResolutionNormalSeries DONE 60 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+162 ResolutionFiniteGroup START
+162 ResolutionFiniteGroup DONE 13516 ms  dims [ 1, 3, 8, 15, 26, 61 ]
+162 ResolutionGenericGroup START
+162 ResolutionGenericGroup DONE 57 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+162 ResolutionNormalSeries START
+162 ResolutionNormalSeries DONE 51 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+163 ResolutionFiniteGroup START
+163 ResolutionFiniteGroup DONE 1891 ms  dims [ 1, 3, 6, 12, 21, 36 ]
+163 ResolutionGenericGroup START
+163 ResolutionGenericGroup DONE 58 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+163 ResolutionNormalSeries START
+163 ResolutionNormalSeries DONE 57 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+164 ResolutionFiniteGroup START
+164 ResolutionFiniteGroup DONE 24982 ms  dims [ 1, 3, 7, 14, 23, 42 ]
+164 ResolutionGenericGroup START
+164 ResolutionGenericGroup DONE 47 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+164 ResolutionNormalSeries START
+164 ResolutionNormalSeries DONE 48 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+165 ResolutionFiniteGroup START
+165 ResolutionFiniteGroup DONE 9152 ms  dims [ 1, 3, 7, 14, 24, 50 ]
+165 ResolutionGenericGroup START
+165 ResolutionGenericGroup DONE 62 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+165 ResolutionNormalSeries START
+165 ResolutionNormalSeries DONE 53 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+166 ResolutionFiniteGroup START
+166 ResolutionFiniteGroup DONE 33901 ms  dims [ 1, 3, 5, 10, 19, 40 ]
+166 ResolutionGenericGroup START
+166 ResolutionGenericGroup DONE 53 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+166 ResolutionNormalSeries START
+166 ResolutionNormalSeries DONE 75 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+167 ResolutionFiniteGroup START
+167 ResolutionFiniteGroup DONE 140 ms  dims [ 1, 3, 5, 8, 12, 19 ]
+167 ResolutionGenericGroup START
+167 ResolutionGenericGroup DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+167 ResolutionNormalSeries START
+167 ResolutionNormalSeries DONE 60 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+168 ResolutionFiniteGroup START
+169 ResolutionFiniteGroup START
+169 ResolutionFiniteGroup DONE 173 ms  dims [ 1, 3, 5, 7, 11, 31 ]
+169 ResolutionGenericGroup START
+169 ResolutionGenericGroup DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+169 ResolutionNormalSeries START
+169 ResolutionNormalSeries DONE 63 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+170 ResolutionFiniteGroup START
+170 ResolutionFiniteGroup DONE 243352 ms  dims [ 1, 3, 5, 6, 18, 70 ]
+170 ResolutionGenericGroup START
+170 ResolutionGenericGroup DONE 49 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+170 ResolutionNormalSeries START
+170 ResolutionNormalSeries DONE 66 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+171 ResolutionFiniteGroup START
+172 ResolutionFiniteGroup START
+173 ResolutionFiniteGroup START
+173 ResolutionFiniteGroup DONE 7 ms  dims [ 1, 3, 5, 7, 10, 14 ]
+173 ResolutionGenericGroup START
+173 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+173 ResolutionNormalSeries START
+173 ResolutionNormalSeries DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+174 ResolutionFiniteGroup START
+174 ResolutionFiniteGroup DONE 14 ms  dims [ 1, 3, 6, 10, 17, 26 ]
+174 ResolutionGenericGroup START
+174 ResolutionGenericGroup DONE 32 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+174 ResolutionNormalSeries START
+174 ResolutionNormalSeries DONE 57 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+175 ResolutionFiniteGroup START
+175 ResolutionFiniteGroup DONE 11 ms  dims [ 1, 3, 6, 10, 14, 18 ]
+175 ResolutionGenericGroup START
+175 ResolutionGenericGroup DONE 34 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+175 ResolutionNormalSeries START
+175 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+176 ResolutionFiniteGroup START
+176 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 3, 5, 7, 10, 14 ]
+176 ResolutionGenericGroup START
+176 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+176 ResolutionNormalSeries START
+176 ResolutionNormalSeries DONE 56 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+177 ResolutionFiniteGroup START
+177 ResolutionFiniteGroup DONE 139 ms  dims [ 1, 3, 5, 8, 13, 19 ]
+177 ResolutionGenericGroup START
+177 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+177 ResolutionNormalSeries START
+177 ResolutionNormalSeries DONE 56 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+178 ResolutionFiniteGroup START
+178 ResolutionFiniteGroup DONE 894 ms  dims [ 1, 3, 7, 12, 18, 35 ]
+178 ResolutionGenericGroup START
+178 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+178 ResolutionNormalSeries START
+178 ResolutionNormalSeries DONE 60 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+179 ResolutionFiniteGroup START
+179 ResolutionFiniteGroup DONE 129 ms  dims [ 1, 3, 5, 6, 8, 15 ]
+179 ResolutionGenericGroup START
+179 ResolutionGenericGroup DONE 57 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+179 ResolutionNormalSeries START
+179 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+180 ResolutionFiniteGroup START
+180 ResolutionFiniteGroup DONE 2238 ms  dims [ 1, 3, 6, 9, 14, 23 ]
+180 ResolutionGenericGroup START
+180 ResolutionGenericGroup DONE 55 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+180 ResolutionNormalSeries START
+180 ResolutionNormalSeries DONE 58 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+181 ResolutionFiniteGroup START
+181 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 3, 6, 9, 11, 13 ]
+181 ResolutionGenericGroup START
+181 ResolutionGenericGroup DONE 56 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+181 ResolutionNormalSeries START
+181 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+182 ResolutionFiniteGroup START
+182 ResolutionFiniteGroup DONE 29 ms  dims [ 1, 3, 6, 8, 9, 14 ]
+182 ResolutionGenericGroup START
+182 ResolutionGenericGroup DONE 64 ms  dims [ 1, 6, 20, 50, 105, 196 ]
+182 ResolutionNormalSeries START
+182 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+183 ResolutionFiniteGroup START
+183 ResolutionFiniteGroup DONE 10 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+183 ResolutionGenericGroup START
+183 ResolutionGenericGroup DONE 10 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+183 ResolutionNormalSeries START
+183 ResolutionNormalSeries DONE 14 ms  dims [ 1, 4, 9, 16, 25, 36 ]
+184 ResolutionFiniteGroup START
+184 ResolutionFiniteGroup DONE 11 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+184 ResolutionGenericGroup START
+184 ResolutionGenericGroup DONE 25 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+184 ResolutionNormalSeries START
+184 ResolutionNormalSeries DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+185 ResolutionFiniteGroup START
+185 ResolutionFiniteGroup DONE 9 ms  dims [ 1, 3, 5, 6, 7, 9 ]
+185 ResolutionGenericGroup START
+185 ResolutionGenericGroup DONE 23 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+185 ResolutionNormalSeries START
+185 ResolutionNormalSeries DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+186 ResolutionFiniteGroup START
+186 ResolutionFiniteGroup DONE 12 ms  dims [ 1, 3, 6, 10, 15, 21 ]
+186 ResolutionGenericGroup START
+186 ResolutionGenericGroup DONE 21 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+186 ResolutionNormalSeries START
+186 ResolutionNormalSeries DONE 80 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+187 ResolutionFiniteGroup START
+187 ResolutionFiniteGroup DONE 281 ms  dims [ 1, 3, 7, 14, 22, 35 ]
+187 ResolutionGenericGroup START
+187 ResolutionGenericGroup DONE 20 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+187 ResolutionNormalSeries START
+187 ResolutionNormalSeries DONE 81 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+188 ResolutionFiniteGroup START
+188 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 3, 6, 10, 14, 18 ]
+188 ResolutionGenericGroup START
+188 ResolutionGenericGroup DONE 19 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+188 ResolutionNormalSeries START
+188 ResolutionNormalSeries DONE 84 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+189 ResolutionFiniteGroup START
+189 ResolutionFiniteGroup DONE 11 ms  dims [ 1, 3, 5, 6, 7, 9 ]
+189 ResolutionGenericGroup START
+189 ResolutionGenericGroup DONE 23 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+189 ResolutionNormalSeries START
+189 ResolutionNormalSeries DONE 84 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+190 ResolutionFiniteGroup START
+190 ResolutionFiniteGroup DONE 612 ms  dims [ 1, 3, 6, 10, 15, 22 ]
+190 ResolutionGenericGroup START
+190 ResolutionGenericGroup DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+190 ResolutionNormalSeries START
+190 ResolutionNormalSeries DONE 86 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+191 ResolutionFiniteGroup START
+191 ResolutionFiniteGroup DONE 1682 ms  dims [ 1, 3, 7, 12, 20, 45 ]
+191 ResolutionGenericGroup START
+191 ResolutionGenericGroup DONE 20 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+191 ResolutionNormalSeries START
+191 ResolutionNormalSeries DONE 87 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+192 ResolutionFiniteGroup START
+192 ResolutionFiniteGroup DONE 22 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+192 ResolutionGenericGroup START
+192 ResolutionGenericGroup DONE 16 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+192 ResolutionNormalSeries START
+192 ResolutionNormalSeries DONE 10 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+193 ResolutionFiniteGroup START
+193 ResolutionFiniteGroup DONE 63 ms  dims [ 1, 4, 11, 25, 50, 93 ]
+193 ResolutionGenericGroup START
+193 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+193 ResolutionNormalSeries START
+193 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+194 ResolutionFiniteGroup START
+194 ResolutionFiniteGroup DONE 22 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+194 ResolutionGenericGroup START
+194 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+194 ResolutionNormalSeries START
+194 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+195 ResolutionFiniteGroup START
+195 ResolutionFiniteGroup DONE 61 ms  dims [ 1, 4, 10, 20, 35, 59 ]
+195 ResolutionGenericGroup START
+195 ResolutionGenericGroup DONE 110 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+195 ResolutionNormalSeries START
+195 ResolutionNormalSeries DONE 22 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+196 ResolutionFiniteGroup START
+196 ResolutionFiniteGroup DONE 46 ms  dims [ 1, 4, 10, 21, 41, 78 ]
+196 ResolutionGenericGroup START
+196 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+196 ResolutionNormalSeries START
+196 ResolutionNormalSeries DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+197 ResolutionFiniteGroup START
+197 ResolutionFiniteGroup DONE 30 ms  dims [ 1, 4, 10, 20, 35, 55 ]
+197 ResolutionGenericGroup START
+197 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+197 ResolutionNormalSeries START
+197 ResolutionNormalSeries DONE 28 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+198 ResolutionFiniteGroup START
+198 ResolutionFiniteGroup DONE 48 ms  dims [ 1, 4, 9, 15, 23, 39 ]
+198 ResolutionGenericGroup START
+198 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+198 ResolutionNormalSeries START
+198 ResolutionNormalSeries DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+199 ResolutionFiniteGroup START
+199 ResolutionFiniteGroup DONE 5119 ms  dims [ 1, 4, 10, 18, 29, 50 ]
+199 ResolutionGenericGroup START
+199 ResolutionGenericGroup DONE 36 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+199 ResolutionNormalSeries START
+199 ResolutionNormalSeries DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+200 ResolutionFiniteGroup START
+200 ResolutionFiniteGroup DONE 56 ms  dims [ 1, 4, 10, 19, 31, 45 ]
+200 ResolutionGenericGroup START
+200 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+200 ResolutionNormalSeries START
+200 ResolutionNormalSeries DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+201 ResolutionFiniteGroup START
+201 ResolutionFiniteGroup DONE 652 ms  dims [ 1, 4, 9, 15, 23, 41 ]
+201 ResolutionGenericGroup START
+201 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+201 ResolutionNormalSeries START
+201 ResolutionNormalSeries DONE 28 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+202 ResolutionFiniteGroup START
+202 ResolutionFiniteGroup DONE 47 ms  dims [ 1, 4, 11, 24, 46, 80 ]
+202 ResolutionGenericGroup START
+202 ResolutionGenericGroup DONE 41 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+202 ResolutionNormalSeries START
+202 ResolutionNormalSeries DONE 39 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+203 ResolutionFiniteGroup START
+203 ResolutionFiniteGroup DONE 34 ms  dims [ 1, 4, 10, 20, 37, 62 ]
+203 ResolutionGenericGroup START
+203 ResolutionGenericGroup DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+203 ResolutionNormalSeries START
+203 ResolutionNormalSeries DONE 40 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+204 ResolutionFiniteGroup START
+204 ResolutionFiniteGroup DONE 55 ms  dims [ 1, 4, 10, 20, 35, 58 ]
+204 ResolutionGenericGroup START
+204 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+204 ResolutionNormalSeries START
+204 ResolutionNormalSeries DONE 41 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+205 ResolutionFiniteGroup START
+205 ResolutionFiniteGroup DONE 60 ms  dims [ 1, 4, 9, 18, 34, 57 ]
+205 ResolutionGenericGroup START
+205 ResolutionGenericGroup DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+205 ResolutionNormalSeries START
+205 ResolutionNormalSeries DONE 40 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+206 ResolutionFiniteGroup START
+206 ResolutionFiniteGroup DONE 34 ms  dims [ 1, 4, 9, 16, 27, 44 ]
+206 ResolutionGenericGroup START
+206 ResolutionGenericGroup DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+206 ResolutionNormalSeries START
+206 ResolutionNormalSeries DONE 40 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+207 ResolutionFiniteGroup START
+207 ResolutionFiniteGroup DONE 17388 ms  dims [ 1, 4, 10, 20, 35, 84 ]
+207 ResolutionGenericGroup START
+207 ResolutionGenericGroup DONE 51 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+207 ResolutionNormalSeries START
+207 ResolutionNormalSeries DONE 39 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+208 ResolutionFiniteGroup START
+208 ResolutionFiniteGroup DONE 361 ms  dims [ 1, 4, 10, 20, 32, 58 ]
+208 ResolutionGenericGroup START
+208 ResolutionGenericGroup DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+208 ResolutionNormalSeries START
+208 ResolutionNormalSeries DONE 41 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+209 ResolutionFiniteGroup START
+209 ResolutionFiniteGroup DONE 13057 ms  dims [ 1, 4, 9, 16, 29, 91 ]
+209 ResolutionGenericGroup START
+209 ResolutionGenericGroup DONE 37 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+209 ResolutionNormalSeries START
+209 ResolutionNormalSeries DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+210 ResolutionFiniteGroup START
+210 ResolutionFiniteGroup DONE 364 ms  dims [ 1, 4, 10, 18, 27, 42 ]
+210 ResolutionGenericGroup START
+210 ResolutionGenericGroup DONE 37 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+210 ResolutionNormalSeries START
+210 ResolutionNormalSeries DONE 34 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+211 ResolutionFiniteGroup START
+211 ResolutionFiniteGroup DONE 31 ms  dims [ 1, 4, 10, 20, 38, 66 ]
+211 ResolutionGenericGroup START
+211 ResolutionGenericGroup DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+211 ResolutionNormalSeries START
+211 ResolutionNormalSeries DONE 39 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+212 ResolutionFiniteGroup START
+212 ResolutionFiniteGroup DONE 24 ms  dims [ 1, 4, 10, 19, 30, 43 ]
+212 ResolutionGenericGroup START
+212 ResolutionGenericGroup DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+212 ResolutionNormalSeries START
+212 ResolutionNormalSeries DONE 42 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+213 ResolutionFiniteGroup START
+213 ResolutionFiniteGroup DONE 23 ms  dims [ 1, 4, 9, 15, 23, 36 ]
+213 ResolutionGenericGroup START
+213 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+213 ResolutionNormalSeries START
+213 ResolutionNormalSeries DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+214 ResolutionFiniteGroup START
+214 ResolutionFiniteGroup DONE 320 ms  dims [ 1, 4, 9, 13, 18, 39 ]
+214 ResolutionGenericGroup START
+214 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+214 ResolutionNormalSeries START
+214 ResolutionNormalSeries DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+215 ResolutionFiniteGroup START
+215 ResolutionFiniteGroup DONE 499 ms  dims [ 1, 4, 9, 17, 30, 48 ]
+215 ResolutionGenericGroup START
+215 ResolutionGenericGroup DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+215 ResolutionNormalSeries START
+215 ResolutionNormalSeries DONE 42 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+216 ResolutionFiniteGroup START
+216 ResolutionFiniteGroup DONE 688 ms  dims [ 1, 4, 10, 19, 31, 57 ]
+216 ResolutionGenericGroup START
+216 ResolutionGenericGroup DONE 47 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+216 ResolutionNormalSeries START
+216 ResolutionNormalSeries DONE 42 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+217 ResolutionFiniteGroup START
+218 ResolutionFiniteGroup START
+218 ResolutionFiniteGroup DONE 110203 ms  dims [ 1, 4, 9, 15, 23, 51 ]
+218 ResolutionGenericGroup START
+218 ResolutionGenericGroup DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+218 ResolutionNormalSeries START
+218 ResolutionNormalSeries DONE 41 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+219 ResolutionFiniteGroup START
+219 ResolutionFiniteGroup DONE 104271 ms  dims [ 1, 4, 10, 17, 27, 63 ]
+219 ResolutionGenericGroup START
+219 ResolutionGenericGroup DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+219 ResolutionNormalSeries START
+219 ResolutionNormalSeries DONE 40 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+220 ResolutionFiniteGroup START
+221 ResolutionFiniteGroup START
+221 ResolutionFiniteGroup DONE 14611 ms  dims [ 1, 4, 10, 19, 33, 64 ]
+221 ResolutionGenericGroup START
+221 ResolutionGenericGroup DONE 52 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+221 ResolutionNormalSeries START
+221 ResolutionNormalSeries DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+222 ResolutionFiniteGroup START
+223 ResolutionFiniteGroup START
+223 ResolutionFiniteGroup DONE 57039 ms  dims [ 1, 4, 9, 16, 28, 71 ]
+223 ResolutionGenericGroup START
+223 ResolutionGenericGroup DONE 49 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+223 ResolutionNormalSeries START
+223 ResolutionNormalSeries DONE 47 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+224 ResolutionFiniteGroup START
+224 ResolutionFiniteGroup DONE 5121 ms  dims [ 1, 4, 9, 14, 22, 48 ]
+224 ResolutionGenericGroup START
+224 ResolutionGenericGroup DONE 49 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+224 ResolutionNormalSeries START
+224 ResolutionNormalSeries DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+225 ResolutionFiniteGroup START
+225 ResolutionFiniteGroup DONE 14959 ms  dims [ 1, 4, 10, 19, 32, 68 ]
+225 ResolutionGenericGroup START
+225 ResolutionGenericGroup DONE 48 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+225 ResolutionNormalSeries START
+225 ResolutionNormalSeries DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+226 ResolutionFiniteGroup START
+226 ResolutionFiniteGroup DONE 574 ms  dims [ 1, 4, 10, 21, 37, 66 ]
+226 ResolutionGenericGroup START
+226 ResolutionGenericGroup DONE 48 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+226 ResolutionNormalSeries START
+226 ResolutionNormalSeries DONE 37 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+227 ResolutionFiniteGroup START
+227 ResolutionFiniteGroup DONE 5395 ms  dims [ 1, 4, 11, 25, 48, 90 ]
+227 ResolutionGenericGroup START
+227 ResolutionGenericGroup DONE 53 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+227 ResolutionNormalSeries START
+227 ResolutionNormalSeries DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+228 ResolutionFiniteGroup START
+228 ResolutionFiniteGroup DONE 1130 ms  dims [ 1, 4, 10, 21, 35, 60 ]
+228 ResolutionGenericGroup START
+228 ResolutionGenericGroup DONE 50 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+228 ResolutionNormalSeries START
+228 ResolutionNormalSeries DONE 43 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+229 ResolutionFiniteGroup START
+229 ResolutionFiniteGroup DONE 49 ms  dims [ 1, 4, 10, 18, 28, 42 ]
+229 ResolutionGenericGroup START
+229 ResolutionGenericGroup DONE 49 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+229 ResolutionNormalSeries START
+229 ResolutionNormalSeries DONE 47 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+230 ResolutionFiniteGroup START
+230 ResolutionFiniteGroup DONE 30994 ms  dims [ 1, 4, 10, 19, 31, 51 ]
+230 ResolutionGenericGroup START
+230 ResolutionGenericGroup DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+230 ResolutionNormalSeries START
+230 ResolutionNormalSeries DONE 61 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+231 ResolutionFiniteGroup START
+231 ResolutionFiniteGroup DONE 71806 ms  dims [ 1, 4, 10, 19, 31, 71 ]
+231 ResolutionGenericGroup START
+231 ResolutionGenericGroup DONE 44 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+231 ResolutionNormalSeries START
+231 ResolutionNormalSeries DONE 40 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+232 ResolutionFiniteGroup START
+232 ResolutionFiniteGroup DONE 3536 ms  dims [ 1, 4, 10, 19, 29, 43 ]
+232 ResolutionGenericGroup START
+232 ResolutionGenericGroup DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+232 ResolutionNormalSeries START
+232 ResolutionNormalSeries DONE 47 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+233 ResolutionFiniteGroup START
+233 ResolutionFiniteGroup DONE 2285 ms  dims [ 1, 4, 10, 20, 34, 54 ]
+233 ResolutionGenericGroup START
+233 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+233 ResolutionNormalSeries START
+233 ResolutionNormalSeries DONE 52 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+234 ResolutionFiniteGroup START
+234 ResolutionFiniteGroup DONE 35522 ms  dims [ 1, 4, 9, 15, 24, 55 ]
+234 ResolutionGenericGroup START
+234 ResolutionGenericGroup DONE 60 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+234 ResolutionNormalSeries START
+234 ResolutionNormalSeries DONE 41 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+235 ResolutionFiniteGroup START
+235 ResolutionFiniteGroup DONE 7055 ms  dims [ 1, 4, 10, 19, 30, 58 ]
+235 ResolutionGenericGroup START
+235 ResolutionGenericGroup DONE 53 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+235 ResolutionNormalSeries START
+235 ResolutionNormalSeries DONE 48 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+236 ResolutionFiniteGroup START
+237 ResolutionFiniteGroup START
+238 ResolutionFiniteGroup START
+238 ResolutionFiniteGroup DONE 27 ms  dims [ 1, 4, 10, 18, 24, 26 ]
+238 ResolutionGenericGroup START
+238 ResolutionGenericGroup DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+238 ResolutionNormalSeries START
+238 ResolutionNormalSeries DONE 47 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+239 ResolutionFiniteGroup START
+239 ResolutionFiniteGroup DONE 233 ms  dims [ 1, 4, 10, 19, 30, 50 ]
+239 ResolutionGenericGroup START
+239 ResolutionGenericGroup DONE 51 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+239 ResolutionNormalSeries START
+239 ResolutionNormalSeries DONE 51 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+240 ResolutionFiniteGroup START
+241 ResolutionFiniteGroup START
+242 ResolutionFiniteGroup START
+242 ResolutionFiniteGroup DONE 391 ms  dims [ 1, 4, 9, 14, 24, 54 ]
+242 ResolutionGenericGroup START
+242 ResolutionGenericGroup DONE 64 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+242 ResolutionNormalSeries START
+242 ResolutionNormalSeries DONE 58 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+243 ResolutionFiniteGroup START
+244 ResolutionFiniteGroup START
+244 ResolutionFiniteGroup DONE 35580 ms  dims [ 1, 4, 9, 14, 25, 54 ]
+244 ResolutionGenericGroup START
+244 ResolutionGenericGroup DONE 76 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+244 ResolutionNormalSeries START
+244 ResolutionNormalSeries DONE 55 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+245 ResolutionFiniteGroup START
+246 ResolutionFiniteGroup START
+246 ResolutionFiniteGroup DONE 21 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+246 ResolutionGenericGroup START
+246 ResolutionGenericGroup DONE 18 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+246 ResolutionNormalSeries START
+246 ResolutionNormalSeries DONE 14 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+247 ResolutionFiniteGroup START
+247 ResolutionFiniteGroup DONE 19 ms  dims [ 1, 4, 9, 16, 26, 40 ]
+247 ResolutionGenericGroup START
+247 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+247 ResolutionNormalSeries START
+247 ResolutionNormalSeries DONE 24 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+248 ResolutionFiniteGroup START
+248 ResolutionFiniteGroup DONE 33 ms  dims [ 1, 4, 10, 20, 34, 52 ]
+248 ResolutionGenericGroup START
+248 ResolutionGenericGroup DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+248 ResolutionNormalSeries START
+248 ResolutionNormalSeries DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+249 ResolutionFiniteGroup START
+249 ResolutionFiniteGroup DONE 927 ms  dims [ 1, 4, 9, 16, 27, 64 ]
+249 ResolutionGenericGroup START
+249 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+249 ResolutionNormalSeries START
+249 ResolutionNormalSeries DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+250 ResolutionFiniteGroup START
+250 ResolutionFiniteGroup DONE 31 ms  dims [ 1, 4, 10, 20, 35, 56 ]
+250 ResolutionGenericGroup START
+250 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+250 ResolutionNormalSeries START
+250 ResolutionNormalSeries DONE 56 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+251 ResolutionFiniteGroup START
+251 ResolutionFiniteGroup DONE 60 ms  dims [ 1, 4, 11, 24, 44, 75 ]
+251 ResolutionGenericGroup START
+251 ResolutionGenericGroup DONE 28 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+251 ResolutionNormalSeries START
+251 ResolutionNormalSeries DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+252 ResolutionFiniteGroup START
+252 ResolutionFiniteGroup DONE 32 ms  dims [ 1, 4, 10, 20, 35, 57 ]
+252 ResolutionGenericGroup START
+252 ResolutionGenericGroup DONE 27 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+252 ResolutionNormalSeries START
+252 ResolutionNormalSeries DONE 56 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+253 ResolutionFiniteGroup START
+253 ResolutionFiniteGroup DONE 22 ms  dims [ 1, 4, 9, 15, 22, 31 ]
+253 ResolutionGenericGroup START
+253 ResolutionGenericGroup DONE 25 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+253 ResolutionNormalSeries START
+253 ResolutionNormalSeries DONE 52 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+254 ResolutionFiniteGroup START
+254 ResolutionFiniteGroup DONE 28 ms  dims [ 1, 4, 9, 16, 26, 40 ]
+254 ResolutionGenericGroup START
+254 ResolutionGenericGroup DONE 26 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+254 ResolutionNormalSeries START
+254 ResolutionNormalSeries DONE 49 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+255 ResolutionFiniteGroup START
+255 ResolutionFiniteGroup DONE 807 ms  dims [ 1, 4, 11, 23, 40, 67 ]
+255 ResolutionGenericGroup START
+255 ResolutionGenericGroup DONE 30 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+255 ResolutionNormalSeries START
+255 ResolutionNormalSeries DONE 50 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+256 ResolutionFiniteGroup START
+256 ResolutionFiniteGroup DONE 1050 ms  dims [ 1, 4, 10, 19, 31, 61 ]
+256 ResolutionGenericGroup START
+256 ResolutionGenericGroup DONE 31 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+256 ResolutionNormalSeries START
+256 ResolutionNormalSeries DONE 59 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+257 ResolutionFiniteGroup START
+257 ResolutionFiniteGroup DONE 191 ms  dims [ 1, 4, 9, 15, 22, 33 ]
+257 ResolutionGenericGroup START
+257 ResolutionGenericGroup DONE 29 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+257 ResolutionNormalSeries START
+257 ResolutionNormalSeries DONE 62 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+258 ResolutionFiniteGroup START
+258 ResolutionFiniteGroup DONE 404 ms  dims [ 1, 4, 11, 24, 45, 77 ]
+258 ResolutionGenericGroup START
+258 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+258 ResolutionNormalSeries START
+258 ResolutionNormalSeries DONE 134 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+259 ResolutionFiniteGroup START
+259 ResolutionFiniteGroup DONE 58 ms  dims [ 1, 4, 10, 20, 35, 59 ]
+259 ResolutionGenericGroup START
+259 ResolutionGenericGroup DONE 33 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+259 ResolutionNormalSeries START
+259 ResolutionNormalSeries DONE 57 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+260 ResolutionFiniteGroup START
+260 ResolutionFiniteGroup DONE 58 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+260 ResolutionGenericGroup START
+260 ResolutionGenericGroup DONE 20 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+260 ResolutionNormalSeries START
+260 ResolutionNormalSeries DONE 18 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+261 ResolutionFiniteGroup START
+261 ResolutionFiniteGroup DONE 60 ms  dims [ 1, 5, 15, 35, 70, 126 ]
+261 ResolutionGenericGroup START
+261 ResolutionGenericGroup DONE 47 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+261 ResolutionNormalSeries START
+261 ResolutionNormalSeries DONE 42 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+262 ResolutionFiniteGroup START
+262 ResolutionFiniteGroup DONE 55 ms  dims [ 1, 5, 15, 34, 64, 106 ]
+262 ResolutionGenericGroup START
+262 ResolutionGenericGroup DONE 51 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+262 ResolutionNormalSeries START
+262 ResolutionNormalSeries DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+263 ResolutionFiniteGroup START
+263 ResolutionFiniteGroup DONE 49 ms  dims [ 1, 5, 14, 29, 51, 82 ]
+263 ResolutionGenericGroup START
+263 ResolutionGenericGroup DONE 47 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+263 ResolutionNormalSeries START
+263 ResolutionNormalSeries DONE 45 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+264 ResolutionFiniteGroup START
+264 ResolutionFiniteGroup DONE 414 ms  dims [ 1, 5, 14, 29, 51, 85 ]
+264 ResolutionGenericGroup START
+264 ResolutionGenericGroup DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+264 ResolutionNormalSeries START
+264 ResolutionNormalSeries DONE 46 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+265 ResolutionFiniteGroup START
+265 ResolutionFiniteGroup DONE 728 ms  dims [ 1, 5, 15, 33, 59, 104 ]
+265 ResolutionGenericGroup START
+265 ResolutionGenericGroup DONE 54 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+265 ResolutionNormalSeries START
+265 ResolutionNormalSeries DONE 49 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+266 ResolutionFiniteGroup START
+267 ResolutionFiniteGroup START
+267 ResolutionFiniteGroup DONE 136 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+267 ResolutionGenericGroup START
+267 ResolutionGenericGroup DONE 37 ms  dims [ 1, 6, 21, 56, 126, 252 ]
+267 ResolutionNormalSeries START
+267 ResolutionNormalSeries DONE 38 ms  dims [ 1, 6, 21, 56, 126, 252 ]

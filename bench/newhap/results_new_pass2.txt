@@ -1,0 +1,84 @@
+18 ResolutionGenericGroup START
+18 ResolutionGenericGroup DONE 15 ms
+18 ResolutionNormalSeries START
+18 ResolutionNormalSeries DONE 18 ms
+63 ResolutionGenericGroup START
+63 ResolutionGenericGroup DONE 48 ms
+63 ResolutionNormalSeries START
+63 ResolutionNormalSeries DONE 38 ms
+64 ResolutionGenericGroup START
+64 ResolutionGenericGroup DONE 46 ms
+64 ResolutionNormalSeries START
+64 ResolutionNormalSeries DONE 41 ms
+75 ResolutionGenericGroup START
+75 ResolutionGenericGroup DONE 76 ms
+75 ResolutionNormalSeries START
+75 ResolutionNormalSeries DONE 63 ms
+82 ResolutionGenericGroup START
+82 ResolutionGenericGroup DONE 81 ms
+82 ResolutionNormalSeries START
+82 ResolutionNormalSeries DONE 76 ms
+100 ResolutionGenericGroup START
+100 ResolutionGenericGroup DONE 31 ms
+100 ResolutionNormalSeries START
+100 ResolutionNormalSeries DONE 66 ms
+113 ResolutionGenericGroup START
+113 ResolutionGenericGroup DONE 53 ms
+113 ResolutionNormalSeries START
+113 ResolutionNormalSeries DONE 45 ms
+160 ResolutionGenericGroup START
+160 ResolutionGenericGroup DONE 84 ms
+160 ResolutionNormalSeries START
+160 ResolutionNormalSeries DONE 83 ms
+168 ResolutionGenericGroup START
+168 ResolutionGenericGroup DONE 44 ms
+168 ResolutionNormalSeries START
+168 ResolutionNormalSeries DONE 88 ms
+171 ResolutionGenericGroup START
+171 ResolutionGenericGroup DONE 48 ms
+171 ResolutionNormalSeries START
+171 ResolutionNormalSeries DONE 96 ms
+172 ResolutionGenericGroup START
+172 ResolutionGenericGroup DONE 57 ms
+172 ResolutionNormalSeries START
+172 ResolutionNormalSeries DONE 114 ms
+217 ResolutionGenericGroup START
+217 ResolutionGenericGroup DONE 122 ms
+217 ResolutionNormalSeries START
+217 ResolutionNormalSeries DONE 117 ms
+220 ResolutionGenericGroup START
+220 ResolutionGenericGroup DONE 97 ms
+220 ResolutionNormalSeries START
+220 ResolutionNormalSeries DONE 91 ms
+222 ResolutionGenericGroup START
+222 ResolutionGenericGroup DONE 82 ms
+222 ResolutionNormalSeries START
+222 ResolutionNormalSeries DONE 82 ms
+236 ResolutionGenericGroup START
+236 ResolutionGenericGroup DONE 68 ms
+236 ResolutionNormalSeries START
+236 ResolutionNormalSeries DONE 61 ms
+237 ResolutionGenericGroup START
+237 ResolutionGenericGroup DONE 68 ms
+237 ResolutionNormalSeries START
+237 ResolutionNormalSeries DONE 65 ms
+240 ResolutionGenericGroup START
+240 ResolutionGenericGroup DONE 129 ms
+240 ResolutionNormalSeries START
+240 ResolutionNormalSeries DONE 122 ms
+241 ResolutionGenericGroup START
+241 ResolutionGenericGroup DONE 103 ms
+241 ResolutionNormalSeries START
+241 ResolutionNormalSeries DONE 95 ms
+243 ResolutionGenericGroup START
+243 ResolutionGenericGroup DONE 80 ms
+243 ResolutionNormalSeries START
+243 ResolutionNormalSeries DONE 75 ms
+245 ResolutionGenericGroup START
+245 ResolutionGenericGroup DONE 89 ms
+245 ResolutionNormalSeries START
+245 ResolutionNormalSeries DONE 84 ms
+266 ResolutionGenericGroup START
+266 ResolutionGenericGroup DONE 61 ms
+266 ResolutionNormalSeries START
+266 ResolutionNormalSeries DONE 57 ms

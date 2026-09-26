@@ -75,6 +75,19 @@ See [`bench/results/SUMMARY.md`](bench/results/SUMMARY.md) for the failing
 identifiers and [`bench/results/table.tsv`](bench/results/table.tsv) for the
 per-group table.
 
+### The same 267 groups against the HAP on GitHub
+
+[`bench/newhap/`](bench/newhap/) repeats the run, under the same protocol,
+against HAP 1.79 from the package's GitHub site. **1.79 is a large
+improvement**: `ResolutionFiniteGroup` dies on 21 groups instead of 74, and
+over the 190 groups both versions complete it takes 485,024 ms against
+1,446,696 ms. Three groups regress — G(64,113), G(64,160) and G(64,241) are
+resolved by 1.70 and die at 3 GB under 1.79 — and a handful of groups change
+by one or two orders of magnitude in either direction.
+[`bench/newhap/SUMMARY.md`](bench/newhap/SUMMARY.md) has the tables, the
+memory ladder on G(64,241), and a calibration run that says which of these
+numbers survive the difference in machine load between the two runs.
+
 ---
 
 ## bogomolov — a second opinion on `BogomolovMultiplier`

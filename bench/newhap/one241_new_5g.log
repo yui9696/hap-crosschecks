@@ -1,0 +1,28 @@
+#I  polymake command not found. Please set POLYMAKE_COMMAND by hand
+#I  HAP warning: Set NEATO_PATH manually if needed.
+#I  HAP warning: Set DOT_PATH manually if needed.
+#I  HAP warning: Set DISPLAY_PATH manually if needed.
+#I  HAP warning: Set BROWSER_PATH manually if needed.
+#I  HAP warning: Set ASY_PATH manually if needed.
+HAP 1.79
+Error, reached the pre-set memory limit
+(change it with the -o command line option)
+       51.34 real        26.71 user        18.29 sys
+          3504881664  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+             6708708  page reclaims
+                  19  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   1  signals received
+                2470  voluntary context switches
+              233896  involuntary context switches
+            13597889  instructions retired
+            10045089  cycles elapsed
+              934200  peak memory footprint
+exit=0

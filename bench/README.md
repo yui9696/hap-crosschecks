@@ -19,3 +19,14 @@ top-level README).
 - `analyze.py` — turns `results.txt` and `results_pass2.txt` into the summary
   and `table.tsv`.
 - `results/` — the recorded run: `SUMMARY.md`, `table.tsv`, and both raw logs.
+
+## newhap/ — the same run against the GitHub HAP
+
+`newhap/` repeats everything above against HAP 1.79 cloned from the package's
+GitHub site, loaded from a separate GAP root so that the installed HAP is not
+touched. `drive_new.sh` drives `one_new.g` over the 267 groups, `pass2_new.g`
+covers the 21 groups where 1.79's `ResolutionFiniteGroup` dies, `one241.g`
+with the `one241_new_*.log` files is the memory ladder on G(64,241), and
+`control_old.g` re-runs 30 groups with 1.70 on a quiet machine to calibrate
+the comparison. `table_old_vs_new.tsv` puts the two versions side by side;
+`SUMMARY.md` reads them.
