@@ -101,6 +101,9 @@ action is not free is Proposition 2.3 of
 > A. Güçlükan and E. Yalçın, *The Euler class of a subset complex*,
 > Quart. J. Math. 61 (2010), 43–68, doi:10.1093/qmath/han025.
 
+The join structure is not a G-CW structure in the strict sense; why the
+proposition still applies is explained in the README.
+
 The functions and their limits are described in [README.md](README.md), and
 `test_SecondChernClass.g` compares them with routes that do not use Euler
 classes.

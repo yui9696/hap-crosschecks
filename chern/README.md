@@ -51,9 +51,11 @@ checked to be an integral multiple of that cycle.
 ## The identification this rests on
 
 > When a finite group `G` acts cellularly, but **not freely**, on the unit
-> sphere `S(V)` of a real representation `V`, the Euler class `e(V)` in
-> `H^n(G;Z)` is the class in `Ext^n_{ZG}(Z,Z)` of the exact sequence of
-> cellular chains `0 -> Z -> C_{n-1}(S) -> ... -> C_0(S) -> Z -> 0`.
+> sphere `S(V)` of an oriented real representation `V` on which `G` acts
+> preserving orientation (for example `V` complex), the Euler class `e(V)` in
+> `H^n(G;Z)` is, up to a universal sign, the class in `Ext^n_{ZG}(Z,Z)` of the
+> exact sequence of cellular chains
+> `0 -> Z -> C_{n-1}(S) -> ... -> C_0(S) -> Z -> 0`.
 
 For **free** actions this is classical (Swan's periodic resolutions). The
 non-free case is Proposition 2.3 of A. Güçlükan and E. Yalçın, *The Euler class
@@ -62,8 +64,12 @@ doi:10.1093/qmath/han025, stated there for any oriented real representation
 with coefficients twisted by its sign; here `V` is complex, so the sign is
 trivial and the coefficients are `Z`. The join structure on `S^1 * S^1` used
 here is not a G-CW structure in the strict sense (some cells are mapped to
-themselves with reversed orientation), but the class depends on the chain
-complex only up to quasi-isomorphism, so it is the same class. Thanks to Graham
+themselves with reversed orientation), but the group acts by cellular
+homeomorphisms, so the cellular chain complex is equivariantly
+quasi-isomorphic to the singular one, and the class depends on the chain
+complex only up to quasi-isomorphism. Güçlükan and Yalçın use the same step in
+their Theorem 2.5, for the boundary of a simplex. The universal sign is fixed
+by the calibration below, where it is `+1`. Thanks to Graham
 Ellis for the reference.
 
 ## Tests

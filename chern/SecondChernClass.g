@@ -59,7 +59,9 @@
 ##  chain complex is classical for FREE actions (Swan's periodic
 ##  resolutions).  The actions here are cellular but not free; that case is
 ##  Proposition 2.3 of A. Guclukan and E. Yalcin, "The Euler class of a
-##  subset complex", Quart. J. Math. 61 (2010), 43-68.  The functions below
+##  subset complex", Quart. J. Math. 61 (2010), 43-68; the join structure is
+##  not a strict H-CW structure, and README.md explains why the proposition
+##  still applies.  The functions below
 ##  are also calibrated against an independent route (see calib.g).
 ##
 #############################################################################
