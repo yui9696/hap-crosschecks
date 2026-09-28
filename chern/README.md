@@ -5,6 +5,9 @@ sphere. HAP provides no Chern class function; this route uses only the cellular
 chain complex, and neither Bocksteins nor cup products, so it is independent of
 the usual one.
 
+A worked example, with download instructions, is in
+[TUTORIAL.md](TUTORIAL.md).
+
 ## `SecondChernClass.g` — the contributed function
 
 Read it into GAP with HAP loaded:
@@ -52,13 +55,16 @@ checked to be an integral multiple of that cycle.
 > `H^n(G;Z)` is the class in `Ext^n_{ZG}(Z,Z)` of the exact sequence of
 > cellular chains `0 -> Z -> C_{n-1}(S) -> ... -> C_0(S) -> Z -> 0`.
 
-For **free** actions this is classical (Swan's periodic resolutions). For the
-non-free case the author has not located a statement in that generality,
-including in the survey of Hambleton and Yalcin
-([arXiv:2605.02760](https://arxiv.org/abs/2605.02760)), where the k-invariants
-are treated as Ext over the orbit category. **References are welcome.** The
-note this code comes from does not depend on the identification: it proves
-separately that its conclusion is unchanged without it.
+For **free** actions this is classical (Swan's periodic resolutions). The
+non-free case is Proposition 2.3 of A. Güçlükan and E. Yalçın, *The Euler class
+of a subset complex*, Quart. J. Math. 61 (2010), 43–68,
+doi:10.1093/qmath/han025, stated there for any oriented real representation
+with coefficients twisted by its sign; here `V` is complex, so the sign is
+trivial and the coefficients are `Z`. The join structure on `S^1 * S^1` used
+here is not a G-CW structure in the strict sense (some cells are mapped to
+themselves with reversed orientation), but the class depends on the chain
+complex only up to quasi-isomorphism, so it is the same class. Thanks to Graham
+Ellis for the reference.
 
 ## Tests
 

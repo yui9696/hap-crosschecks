@@ -55,13 +55,12 @@
 ##  NOTHING here uses Bocksteins or cup products, which makes this route
 ##  independent of the usual one.
 ##
-##  CAVEAT.  The identification of the Euler class with the class of the
-##  cellular chain complex is classical for FREE actions (Swan's periodic
-##  resolutions).  The actions here are cellular but not free, and the author
-##  has not located a statement in that generality in the literature.  The
-##  functions below are calibrated against an independent route (see
-##  calib.g), but the identification itself should be regarded as an
-##  assumption.  References are welcome.
+##  The identification of the Euler class with the class of the cellular
+##  chain complex is classical for FREE actions (Swan's periodic
+##  resolutions).  The actions here are cellular but not free; that case is
+##  Proposition 2.3 of A. Guclukan and E. Yalcin, "The Euler class of a
+##  subset complex", Quart. J. Math. 61 (2010), 43-68.  The functions below
+##  are also calibrated against an independent route (see calib.g).
 ##
 #############################################################################
 

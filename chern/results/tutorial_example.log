@@ -1,0 +1,11 @@
+#I  polymake command not found. Please set POLYMAKE_COMMAND by hand
+Q8:  H^4 = [ 8 ],  c2(chi) = [ 5 ]
+  ok    H^4(Q8,Z) = [ 8 ]
+  ok    order of c2(chi) = 8
+D8:  H^4 = [ 2, 2, 4 ]
+  ok    H^4(D8,Z) = [ 2, 2, 4 ]
+  ok    order of c2(chi) = 4
+  ok    order of c2(chi+chi) = 2
+  ok    order of c2(regular) = 2
+
+0 failures.
