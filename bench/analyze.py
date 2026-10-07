@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Turn results.txt/exits.txt into the per-group table for Ellis."""
+"""Turn results.txt/exits.txt into the per-group table."""
 import collections, sys
 
 st=collections.defaultdict(set); dn={}; dims={}

@@ -126,17 +126,17 @@ it against `c_1 cup c_1` on abelian groups and against `Q_8`, `D_8`, `D_16`,
 `SD_16`, `M_16` and `Q_16`; on some of these the agreement is modulo the
 detection kernel, which the log records.
 
-### One thing that is not settled
+### The non-free case
 
 The identification used here — for a cellular but **not free** action, the
 Euler class as the class in `Ext^n_{ZG}(Z,Z)` of the cellular chain complex —
-is classical for free actions (Swan's periodic resolutions). For the non-free
-case the author has not been able to locate a statement in the form needed,
-including in the survey of Hambleton and Yalcin
-([arXiv:2605.02760](https://arxiv.org/abs/2605.02760)), where the k-invariants
-are treated as Ext over the orbit category. **References welcome.** The note
-this code comes from does not depend on the identification: it proves
-separately that the conclusion is unchanged without it.
+is classical for free actions (Swan's periodic resolutions). The non-free case
+is Proposition 2.3 of A. Güçlükan and E. Yalçın, *The Euler class of a subset
+complex*, Quart. J. Math. 61 (2010), 43–68, doi:10.1093/qmath/han025; why it
+applies to the join structure used here is explained in
+[chern/README.md](chern/README.md). The note this code comes from does not
+depend on the identification: it proves separately that the conclusion is
+unchanged without it.
 
 ---
 

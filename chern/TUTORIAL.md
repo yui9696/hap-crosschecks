@@ -66,8 +66,10 @@ gap> SecondChernClassOfCharacter(R, chi);
 
 The class `[1,0,1]` in `Z/2 + Z/2 + Z/4` has order 4.
 
-Any character whose irreducible constituents have degree at most 2 is accepted;
-the Whitney formula is applied for you. For the sum `chi + chi` and for the
+Any character whose irreducible constituents have degree at most 2 is
+accepted, provided the constituents of degree 2 are monomial (always the case
+for nilpotent groups; otherwise the function stops with an error). The Whitney
+formula is applied for you. For the sum `chi + chi` and for the
 regular representation:
 
 ```gap
@@ -102,7 +104,7 @@ action is not free is Proposition 2.3 of
 > Quart. J. Math. 61 (2010), 43–68, doi:10.1093/qmath/han025.
 
 The join structure is not a G-CW structure in the strict sense; why the
-proposition still applies is explained in the README.
+proposition still applies is explained in [README.md](README.md).
 
 The functions and their limits are described in [README.md](README.md), and
 `test_SecondChernClass.g` compares them with routes that do not use Euler

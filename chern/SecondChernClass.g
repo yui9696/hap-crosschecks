@@ -4,7 +4,8 @@
 ##
 ##  Second Chern classes of complex representations of a finite group, for
 ##  representations all of whose irreducible constituents have degree at most
-##  two, computed as Euler classes of representation spheres.
+##  two and are monomial (always the case for nilpotent groups), computed as
+##  Euler classes of representation spheres.
 ##
 ##  Read this file into GAP with HAP loaded:
 ##      gap> LoadPackage("HAP");;
@@ -75,8 +76,8 @@ DeclareGlobalFunction("EulerClassOfMonomialRepresentation");
 DeclareGlobalFunction("SecondChernClassOfCharacter");
 
 ##  A universal sign, fixed once and for all by the calibration in calib.g.
-##  It is exposed so that a user who re-derives the orientation convention can
-##  change it without editing the code.
+##  It is read-only; a user who adopts the opposite orientation convention
+##  should change the value here.
 BindGlobal("HAPCHERN_EulerSign", 1);
 
 ##  Caches, keyed by the order m of the roots of unity and by the resolution.
@@ -555,7 +556,8 @@ end);
 ##
 ##  c_2 of the representation with character chi, as a vector of coordinates
 ##  in H^4(G,Z), where G = R!.group.  Every irreducible constituent of chi
-##  must have degree at most two.
+##  must have degree at most two, and those of degree two must be monomial
+##  (see MonomialModelOfCharacter); otherwise an error is raised.
 ##
 ##  The Whitney formula is applied to the decomposition of chi into
 ##  irreducible constituents with multiplicity:

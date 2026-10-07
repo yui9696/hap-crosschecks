@@ -28,9 +28,8 @@ Groups that 1.70 completes and 1.79 does not:
 | G(64,160) | 92,944 ms | died at 3 GB after 17.2 s |
 | G(64,241) | 233,602 ms | died at 3 GB after 17.2 s |
 
-G(64,241) is the group Graham Ellis independently noticed (732 s on his laptop
-with 1.79 against 122 s with 1.70). G(64,241) is also the slowest group of the
-whole 1.70 run, by a factor of two over the next.
+G(64,241) is the slowest group of the whole 1.70 run, by a factor of two over
+the next.
 
 ### The memory ladder on G(64,241), HAP 1.79
 

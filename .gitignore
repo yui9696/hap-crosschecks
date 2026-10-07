@@ -3,3 +3,9 @@ _cur*.g
 __pycache__/
 .DS_Store
 drive*.log
+
+# security audit (do not publish)
+SECURITY.md
+SECURITY_REVIEW.md
+.sec/
+.env*

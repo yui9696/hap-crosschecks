@@ -28,7 +28,7 @@ Z/16`).
 
 | function | |
 |---|---|
-| `SecondChernClassOfCharacter(R, chi)` | `c_2` of any character whose irreducible constituents have degree at most 2, by the Whitney formula |
+| `SecondChernClassOfCharacter(R, chi)` | `c_2` of any character whose irreducible constituents have degree at most 2 and are monomial, by the Whitney formula |
 | `EulerClassOfMonomialRepresentation(R, model)` | the Euler class of one monomial 2-dimensional representation, as a class |
 | `EulerCocycleOfMonomialRepresentation(R, model)` | the same, as a 4-cocycle on the free generators of `R_4` — no cohomology presentation needed |
 | `MonomialModelOfCharacter(G, chi)` | a monomial model of an irreducible `chi` of degree 2, as `Ind_K^G(lambda)` with `[G:K] = 2` |
